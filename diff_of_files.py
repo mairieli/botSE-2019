@@ -4,7 +4,7 @@ import csv
 
 repos = iocsv.read_csv_repos_fil("data_filtered.csv")
 
-out = open('project_bot_3.csv', 'w')
+out = open('project_bot.csv', 'w')
 w_out = csv.writer(out)
 
 for commit in RepositoryMining(path_to_repo=repos, only_modifications_with_file_types= ['.yml']).traverse_commits():
