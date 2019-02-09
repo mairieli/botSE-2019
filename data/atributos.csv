@@ -1,0 +1,3250 @@
+A;owner;project_name;days_until_stale;days_until_close;stale_label
+4;PowerShell;xWordPress; 14; 40; abandoned
+7;paulcbetts;splat; 60; 7; waiting
+3;paulcbetts;splat; 60; 7; waiting
+4;nginx-shib;shibboleth-fastcgi; 60; 7;
+6;nginx-shib;shibboleth-fastcgi; 60; 7;
+6;khbrst;khbrst.github.io; 30; 7;
+4;khbrst;khbrst.github.io; 30; 7;
+8;khbrst;khbrst.github.io; 30; 7;
+9;khbrst;khbrst.github.io; 30; 7;
+6;khbrst;khbrst.github.io; 30; 7;
+3;khbrst;khbrst.github.io; 30; 7;
+0;khbrst;khbrst.github.io; 30; 7;
+5;khbrst;khbrst.github.io; 30; 7;
+2;khbrst;khbrst.github.io; 30; 7;
+9;khbrst;khbrst.github.io; 30; 7;
+6;khbrst;khbrst.github.io; 30; 7;
+8;khbrst;khbrst.github.io; 30; 7;
+3;khbrst;khbrst.github.io;;;
+3;khbrst;khbrst.github.io; 30; 7;
+9;khbrst;khbrst.github.io; 30; 7;
+5;khbrst;khbrst.github.io; 30; 7;
+0;jeffreydwalter;arlo; 31; 14; stale
+9;storybooks;react-storybook; 45; 45; inactive
+2;storybooks;react-storybook; 55; 5; inactive
+8;storybooks;react-storybook; 85; 5; inactive
+0;storybooks;react-storybook; 85; 5; inactive
+2;storybooks;react-storybook; 85; 5; inactive
+2;storybooks;react-storybook; 85; 5; inactive
+8;storybooks;react-storybook; 85; 5; inactive
+4;storybooks;react-storybook; 85; 5; inactive
+6;storybooks;react-storybook; 85; 5; inactive
+7;storybooks;react-storybook; 85; 5; inactive
+0;storybooks;react-storybook; 85; 5; inactive
+3;storybooks;react-storybook; 85; 5; inactive
+5;storybooks;react-storybook; 88; 2; inactive
+3;storybooks;react-storybook; 88; 2; inactive
+7;storybooks;react-storybook; 45; 15; inactive
+8;storybooks;react-storybook; 45; 15; inactive
+5;storybooks;react-storybook; 45; 15; inactive
+3;storybooks;react-storybook; 45; 15; inactive
+5;storybooks;react-storybook; 45; 15; inactive
+2;storybooks;react-storybook; 45; 15; inactive
+7;storybooks;react-storybook; 45; 15; inactive
+9;storybooks;react-storybook; 45; 15; inactive
+7;storybooks;react-storybook; 45; 15; inactive
+5;storybooks;react-storybook; 45; 15; inactive
+9;storybooks;react-storybook; 45; 15; inactive
+8;storybooks;react-storybook; 45; 15; inactive
+2;storybooks;react-storybook; 45; 15; inactive
+5;storybooks;react-storybook; 45; 15; inactive
+4;storybooks;react-storybook; 45; 15; inactive
+0;storybooks;react-storybook; 45; 15; inactive
+9;storybooks;react-storybook; 45; 15; inactive
+8;storybooks;react-storybook; 45; 15; inactive
+8;storybooks;react-storybook; 45; 15; inactive
+9;storybooks;react-storybook; 45; 15; inactive
+5;storybooks;react-storybook; 45; 15; inactive
+4;storybooks;react-storybook; 45; 15; inactive
+7;storybooks;react-storybook; 45; 15; inactive
+7;storybooks;react-storybook; 45; 15; inactive
+9;storybooks;react-storybook; 45; 15; inactive
+5;storybooks;react-storybook; 45; 15; inactive
+9;storybooks;react-storybook; 45; 15; inactive
+0;storybooks;react-storybook; 45; 15; inactive
+7;storybooks;react-storybook; 45; 15; inactive
+7;storybooks;react-storybook; 45; 15; inactive
+9;storybooks;react-storybook; 45; 15; inactive
+4;storybooks;react-storybook; 45; 15; inactive
+9;storybooks;react-storybook; 45; 15; inactive
+5;storybooks;react-storybook; 45; 15; inactive
+3;storybooks;react-storybook; 45; 15; inactive
+6;storybooks;react-storybook; 21; 30; inactive
+3;storybooks;react-storybook; 21; 30; inactive
+3;storybooks;react-storybook; 21; 30; inactive
+6;storybooks;react-storybook; 21; 30; inactive
+6;storybooks;react-storybook; 21; 30; inactive
+8;storybooks;react-storybook; 21; 30; inactive
+0;storybooks;react-storybook; 21; 30; inactive
+2;storybooks;react-storybook; 21; 30; inactive
+7;storybooks;react-storybook; 21; 30; inactive
+6;storybooks;react-storybook; 21; 30; inactive
+5;storybooks;react-storybook; 21; 30; inactive
+8;storybooks;react-storybook; 21; 30; inactive
+0;storybooks;react-storybook; 21; 30; inactive
+0;storybooks;react-storybook; 21; 30; inactive
+2;storybooks;react-storybook; 21; 30; inactive
+9;storybooks;react-storybook; 21; 30; inactive
+3;storybooks;react-storybook; 21; 30; inactive
+7;storybooks;react-storybook; 21; 30; inactive
+3;storybooks;react-storybook; 21; 30; inactive
+7;storybooks;react-storybook; 21; 30; inactive
+0;storybooks;react-storybook; 21; 30; inactive
+0;storybooks;react-storybook; 21; 30; inactive
+2;storybooks;react-storybook; 21; 30; inactive
+8;PeptoneInc;dspp-keras; 60; 7; wontfix
+5;PowerShell;xPowerShellExecutionPolicy; 14; 40; abandoned
+6;csirtgadgets;bearded-avenger-deploymentkit; 45; 7; wontfix
+6;csirtgadgets;bearded-avenger-deploymentkit; 45; 7; wontfix
+5;stnava;ANTs; 60; 7; wontfix
+5;stnava;ANTs; 60; 7; stale
+1;stnava;ANTs; 60; 7; stale
+5;schacon;ruby-git; 60; 7; wontfix
+4;AjuntamentdeBarcelona;decidim; 60; 7;
+7;AjuntamentdeBarcelona;decidim; 60; 7;
+2;AjuntamentdeBarcelona;decidim; 60; 7;
+8;fjmorant;react-native-nested-listview; 60; 7; wontfix
+9;wso2;carbon-device-mgt-plugins; 10; 5; Resolution
+8;wso2;carbon-device-mgt-plugins; 10; 5; Resolution
+0;wso2;carbon-device-mgt-plugins; 10; 5; Resolution
+8;wso2;carbon-device-mgt-plugins; 10; 5; Resolution
+9;wso2;carbon-device-mgt-plugins; 10;; Resolution
+0;wso2;carbon-device-mgt-plugins; 10;; Resolution
+9;pfnet;chainer; 90; 30; stale
+8;pfnet;chainer; 90; 30; stale
+8;pfnet;chainer; 90; 30; stale
+9;pfnet;chainer; 90; 30; stale
+9;pfnet;chainer; 90; 30; stale
+6;pfnet;chainer; 90; 30; stale
+4;pfnet;chainer; 90; 30; stale
+8;pfnet;chainer; 90; 30; stale
+1;pfnet;chainer; 90; 30; stale
+6;pfnet;chainer; 90; 30; stale
+9;pfnet;chainer; 90; 30; stale
+4;pfnet;chainer; 90; 30; stale
+4;pfnet;chainer; 90; 30; stale
+6;pfnet;chainer; 90; 30; stale
+1;pfnet;chainer; 90; 30; stale
+9;pfnet;chainer; 90; 30; stale
+9;pfnet;chainer; 90; 30; stale
+3;pfnet;chainer; 90; 30; stale
+6;pfnet;chainer; 90; 30; stale
+8;pfnet;chainer; 90; 30; stale
+2;pfnet;chainer; 90; 30; stale
+5;pfnet;chainer; 90; 30; stale
+3;pfnet;chainer; 90; 30; stale
+0;pfnet;chainer; 90; 30; stale
+1;pfnet;chainer; 90; 30; stale
+6;pfnet;chainer; 90; 30; stale
+2;pfnet;chainer; 90; 30; stale
+9;pfnet;chainer; 90; 30; stale
+1;pfnet;chainer; 90; 30; stale
+9;pfnet;chainer; 90; 30; stale
+4;pfnet;chainer; 90; 30; stale
+3;pfnet;chainer; 90; 30; stale
+0;pfnet;chainer; 90; 30; stale
+4;pfnet;chainer; 90; 30; stale
+5;pfnet;chainer; 90; 30; stale
+8;pfnet;chainer; 90; 30; stale
+8;pfnet;chainer; 90; 30; stale
+4;pfnet;chainer; 90; 30; stale
+0;DemonWav;MinecraftDevIntelliJ; 30; 7;
+6;DemonWav;MinecraftDevIntelliJ; 30; 7;
+7;DemonWav;MinecraftDevIntelliJ; 30; 7;
+1;DemonWav;MinecraftDevIntelliJ; 30; 7;
+7;DemonWav;MinecraftDevIntelliJ; 30; 14;
+3;DemonWav;MinecraftDevIntelliJ; 30; 14;
+8;DemonWav;MinecraftDevIntelliJ; 30; 14;
+6;mmistakes;minimal-mistakes; 30; 7;
+2;mmistakes;minimal-mistakes; 30; 7;
+3;mmistakes;minimal-mistakes; 30; 7;
+5;mmistakes;minimal-mistakes; 30; 7;
+6;mmistakes;minimal-mistakes; 30; 7;
+4;mmistakes;minimal-mistakes; 30; 7;
+2;mmistakes;minimal-mistakes; 30; 7;
+8;mmistakes;minimal-mistakes; 30; 7;
+8;mmistakes;minimal-mistakes; 30; 7;
+1;mmistakes;minimal-mistakes; 30; 7;
+7;mmistakes;minimal-mistakes; 30; 7;
+8;mmistakes;minimal-mistakes; 30; 7;
+8;mmistakes;minimal-mistakes; 30; 7;
+0;LinioIT;mail; 3;; stale
+4;WaterfallMC;Waterfall; 60; 7;
+1;WaterfallMC;Waterfall; 60; 7;
+0;rematch;rematch; 90; 30; wontfix
+4;mrBussy;mrbussy.github.io; 30; 7;
+6;mrBussy;mrbussy.github.io; 30; 7;
+8;mrBussy;mrbussy.github.io; 30; 7;
+6;mrBussy;mrbussy.github.io; 30; 7;
+8;mrBussy;mrbussy.github.io; 30; 7;
+6;exercism;xpython; 21; 7; on
+1;exercism;xpython; 60; 7; on
+5;exercism;xpython; 21; 7; abandoned
+5;exercism;xpython; 21; 7; abandoned
+8;gdavila;gdavila.github.io; 30; 7;
+7;gdavila;gdavila.github.io; 30; 7;
+7;gdavila;gdavila.github.io; 30; 7;
+3;gdavila;gdavila.github.io; 30; 7;
+5;gdavila;gdavila.github.io; 30; 7;
+3;gdavila;gdavila.github.io; 30; 7;
+3;gdavila;gdavila.github.io; 30; 7;
+5;gdavila;gdavila.github.io; 30; 7;
+5;mattstratton;probablyfine; 60; 7; wontfix
+7;mattstratton;probablyfine; 60; 120; wontfix
+3;tekezo;Karabiner-Elements; 60; 7; stale
+2;Sylius;Sylius; 90; 7; Stale
+5;Sylius;Sylius; 90; 7; Stale
+5;Sylius;Sylius; 90; 7; Stale
+4;Sylius;Sylius; 90; 7; Stale
+2;Sylius;Sylius; 90; 7; Stale
+2;Sylius;Sylius; 90; 7; Stale
+0;Sylius;Sylius; 90; 7; Stale
+8;Sylius;Sylius; 90; 7; Stale
+5;Sylius;Sylius; 90; 7; Stale
+6;Sylius;Sylius; 90; 7; Stale
+2;Sylius;Sylius; 90; 7; Stale
+5;Sylius;Sylius; 90; 7; Stale
+7;Sylius;Sylius; 90; 7; Stale
+2;Sylius;Sylius; 90; 7; Stale
+1;Sylius;Sylius; 90; 7; Stale
+1;Sylius;Sylius; 90; 7; Stale
+3;Sylius;Sylius; 90; 7; Stale
+4;Sylius;Sylius; 90; 7; Stale
+1;Aceheliflyer;AceBot; 14; 7;
+8;Aceheliflyer;AceBot; 14; 7;
+3;Blizzard;node-rdkafka; 90; 7; stale
+2;zsdonghao;tensorlayer; 30; 15;
+0;zsdonghao;tensorlayer; 30; 15;
+2;zsdonghao;tensorlayer; 30; 15;
+7;BenEmdon;CenteredCollectionView; 360; 7; stale
+8;benbalter;wordpress-to-jekyll-exporter; 60; 7; wontfix
+9;benbalter;wordpress-to-jekyll-exporter; 60; 7; wontfix
+6;benbalter;wordpress-to-jekyll-exporter; 60; 7; wontfix
+1;github;linguist; 30; 14; Stale
+8;github;linguist; 30; 14; Stale
+3;phpmyadmin;sql-parser; 60; 7; wontfix
+0;phpmyadmin;sql-parser; 60; 7; wontfix
+5;npds;npds_dune; 60; 7; wontfix
+4;npds;npds_dune; 60; 7; wontfix
+9;PlagueHO;ciSCSI; 14; 40; abandoned
+9;PlagueHO;ciSCSI; 14; 40; abandoned
+5;galetahub;ckeditor; 60; 7; wontfix
+9;atom;sort-lines; 180; 14; stale
+9;atom;sort-lines; 180; 14; stale
+6;atom;sort-lines; 180; 14; stale
+8;atom;sort-lines; 180; 14; stale
+9;gorilla;feeds; 60; 7; stale
+4;svemaraju;svemaraju.github.io; 60; 7; wontfix
+2;idehub;react-native-google-analytics-bridge; 60; 7; wontfix
+4;LinioIT;database; 3;; stale
+8;ssbc;emoji-server; 60; 7; stale
+7;db-migrate;node-db-migrate; 30; 7; wontfix
+3;db-migrate;node-db-migrate; 30; 7; stale
+4;PowerShell;xHyper-V; 14; 40; abandoned
+5;Ikulagin;ikulagin.github.io; 30; 7;
+8;benbalter;jekyll-avatar; 60; 7; wontfix
+2;benbalter;jekyll-avatar; 60; 7; wontfix
+1;openatx;uiautomator2; 30; 2; wontfix
+5;apache;beam; 60; 7;
+8;apache;beam; 60; 7;
+3;apache;beam; 60; 7;
+1;apache;beam; 60; 7; stale
+1;apache;beam; 60; 7; stale
+5;apache;beam; 60; 7; stale
+3;lc-soft;LCUI; 15; 7; stale
+8;lc-soft;LCUI; 90; 30; stale
+9;lc-soft;LCUI; 90; 30; stale
+9;lc-soft;LCUI; 90; 30; stale
+5;mikedeboer;node-github; 28; 7; stale
+0;exercism;xdelphi;;;
+5;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+0;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+4;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+5;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+2;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+0;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+2;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+4;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+2;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+5;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+0;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+7;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+8;LesliePajuelo;LesliePajuelo.github.io; 30; 7;
+1;PyGithub;PyGithub; 60; 7; wontfix
+1;PyGithub;PyGithub; 60; 7; stale
+4;Vel0x;vel0x.github.io; 30; 7;
+8;Vel0x;vel0x.github.io; 30; 7;
+5;Vel0x;vel0x.github.io; 30; 7;
+4;Vel0x;vel0x.github.io; 30; 7;
+2;Vel0x;vel0x.github.io; 30; 7;
+0;Vel0x;vel0x.github.io; 30; 7;
+2;Vel0x;vel0x.github.io; 30; 7;
+4;Vel0x;vel0x.github.io; 30; 7;
+6;Vel0x;vel0x.github.io; 30; 7;
+4;Vel0x;vel0x.github.io; 30; 7;
+6;Vel0x;vel0x.github.io; 30; 7;
+5;Vel0x;vel0x.github.io; 30; 7;
+8;Vel0x;vel0x.github.io; 30; 7;
+1;Vel0x;vel0x.github.io; 30; 7;
+1;Vel0x;vel0x.github.io;;;
+4;Homebrew;homebrew-bundle; 21; 7; stale
+6;Homebrew;homebrew-bundle; 21; 7; stale
+2;PowerShell;xRobocopy; 14; 40; abandoned
+5;babel;babel-preset-env; 60; 7; stale
+3;SVProgressHUD;SVProgressHUD; 180; 14; stale
+8;ssbc;ssb-search; 60; 7; stale
+9;ocadotechnology;aimmo; 60; 14; stale
+8;Laravel-Backpack;base; 60; 14; stale
+0;Laravel-Backpack;base; 60; 14; stale
+0;Laravel-Backpack;base; 60; 14; stale
+2;Laravel-Backpack;base; 60; 14; stale
+4;auth0-extensions;auth0-user-invite-extension;;;
+7;crewjam;saml; 60; 7; wontfix
+5;ssbc;ssb-names; 60; 7; stale
+7;ssbc;ssb-names; 60; 7; stale
+7;prebid;Prebid.js; 14; 7; wontfix
+7;prebid;Prebid.js; 14; 7; stale
+8;PowerShell;DscResources; 14; 40; abandoned
+6;PowerShell;DscResources; 14; 40; abandoned
+2;PowerShell;DscResources; 14; 40; abandoned
+6;PowerShell;DscResources; 14; 40; abandoned
+6;feross;standard; 90; 7; stale
+3;feross;standard; 90; 7; stale
+8;feross;standard; 90; 7; stale
+2;imolorhe;altair; 60; 7; wontfix
+5;imolorhe;altair; 60; 7; wontfix
+5;imolorhe;altair; 60; 7; wontfix
+4;imolorhe;altair; 60; 7; wontfix
+7;AdmiringWorm;Faker.NET.Portable; 60; 7; Pending
+2;AdmiringWorm;Faker.NET.Portable; 60; 7; Pending
+1;basecamp;trix; 90; 7; stale
+6;probot;stale;;;
+4;probot;stale;;;
+5;ssbc;ssb-testnet; 60; 7; stale
+5;moonlight-stream;moonlight-android; 90; 7; stale
+5;lesserwhirls;lesserwhirls.github.io; 30; 7;
+2;lesserwhirls;lesserwhirls.github.io; 30; 7;
+2;lesserwhirls;lesserwhirls.github.io; 30; 7;
+1;lesserwhirls;lesserwhirls.github.io; 30; 7;
+4;lesserwhirls;lesserwhirls.github.io; 30; 7;
+9;lesserwhirls;lesserwhirls.github.io; 30; 7;
+1;lesserwhirls;lesserwhirls.github.io; 30; 7;
+5;lesserwhirls;lesserwhirls.github.io; 30; 7;
+4;lesserwhirls;lesserwhirls.github.io; 30; 7;
+6;lesserwhirls;lesserwhirls.github.io; 30; 7;
+9;lesserwhirls;lesserwhirls.github.io; 30; 7;
+2;lesserwhirls;lesserwhirls.github.io; 30; 7;
+4;lesserwhirls;lesserwhirls.github.io; 30; 7;
+6;SpoonX;wetland; 60; 7; wontfix
+1;SpoonX;wetland; 60; 7; wontfix
+2;MyEtherWallet;MyEtherWallet; 60; 10; stale
+3;MyEtherWallet;MyEtherWallet; 60; 10; stale
+4;MyEtherWallet;MyEtherWallet; 60; 10; stale
+6;MyEtherWallet;MyEtherWallet; 60; 10; stale
+0;MyEtherWallet;MyEtherWallet; 60; 10; stale
+7;pages-themes;hacker; 60; 7; wontfix
+3;obiba;agate; 60; 7; wontfix
+8;obiba;agate; 60; 7; wontfix
+8;Homebrew;brew; 21; 7; stale
+5;Homebrew;brew; 21; 7; stale
+5;DanSnow;vue-recaptcha; 60; 7; wontfix
+2;phpmyadmin;shapefile; 60; 7; wontfix
+1;webtorrent;webtorrent; 120; 7;
+2;webtorrent;webtorrent; 120; 7;
+7;webtorrent;webtorrent; 120; 7;
+9;webtorrent;webtorrent; 120; 7; stale
+1;webtorrent;webtorrent; 120; 7; wontfix
+7;webtorrent;webtorrent; 120; 7; wontfix
+6;webtorrent;webtorrent; 120; 7; stale
+1;webtorrent;webtorrent; 120; 7; stale
+7;webtorrent;webtorrent; 90; 7; stale
+3;webtorrent;webtorrent; 90; 7; stale
+1;webtorrent;webtorrent; 90; 7; stale
+2;wireload;screenly-ose; 60; 7; wontfix
+0;wireload;screenly-ose; 60; 7; stale
+5;maliceio;malice; 60; 7; wontfix
+1;hakanensari;vacuum; 60; 7; wontfix
+2;wordpress-mobile;WordPress-iOS; 365;;
+6;wordpress-mobile;WordPress-iOS; 365;;
+9;wordpress-mobile;WordPress-iOS; 365;;
+4;wordpress-mobile;WordPress-iOS; 365;;
+5;wordpress-mobile;WordPress-iOS; 365;;
+8;wordpress-mobile;WordPress-iOS; 365;;
+8;CherrySquid;CherrySquid.github.io; 30; 7;
+0;PowerShell;xComputerManagement; 14; 40; abandoned
+6;PowerShell;xComputerManagement; 14; 40; abandoned
+7;mauron85;react-native-background-geolocation; 120; 7; stale
+7;mauron85;react-native-background-geolocation; 180; 7; stale
+4;website-scraper;node-website-scraper; 60; 7; wontfix
+5;b4b4r07;enhancd; 7; 7; waiting
+1;b4b4r07;enhancd; 7; 14; stale
+0;darkblank;darkblank.github.io; 30; 7;
+9;darkblank;darkblank.github.io; 30; 7;
+1;darkblank;darkblank.github.io; 30; 7;
+3;darkblank;darkblank.github.io; 30; 7;
+7;darkblank;darkblank.github.io; 30; 7;
+3;darkblank;darkblank.github.io; 30; 7;
+8;darkblank;darkblank.github.io; 30; 7;
+0;darkblank;darkblank.github.io; 30; 7;
+9;securestate;king-phisher-templates; 7; 7; stale
+4;minishift;minishift; 60; 14; status
+6;PowerShell;xStorage; 14; 40; abandoned
+4;PowerShell;xStorage; 14; 40; abandoned
+4;poldracklab;mriqc; 100; 7; stale
+9;poldracklab;mriqc; 100; 7; stale
+0;poldracklab;mriqc; 100; 7; stale
+9;poldracklab;mriqc; 100; 7; stale
+4;poldracklab;mriqc; 100; 7; stale
+7;poldracklab;mriqc; 100; 7; stale
+8;poldracklab;mriqc; 100; 7; stale
+6;poldracklab;mriqc; 100; 7; stale
+7;Ubuntu-Solutions-Engineering;conjure; 120; 7; wontfix
+7;Ubuntu-Solutions-Engineering;conjure; 120; 7; wontfix
+5;Ubuntu-Solutions-Engineering;conjure; 120; 7; wontfix
+2;benbalter;licensee; 60; 7; wontfix
+4;benbalter;licensee; 60; 7; wontfix
+6;benbalter;licensee; 60; 7; wontfix
+7;benbalter;licensee; 60; 7; wontfix
+3;benbalter;licensee; 60; 7; wontfix
+8;benbalter;licensee; 60; 7; wontfix
+6;rsim;ruby-plsql; 60; 7; wontfix
+7;rsim;ruby-plsql; 60; 7; wontfix
+3;rcarrata;rcarrata.github.io; 30; 7;
+7;rcarrata;rcarrata.github.io; 30; 7;
+9;rcarrata;rcarrata.github.io; 30; 7;
+1;rcarrata;rcarrata.github.io; 30; 7;
+3;Factual;kudos; 90; 14; stale
+4;Factual;kudos; 90; 14; stale
+5;Factual;kudos; 90; 14; stale
+3;Factual;kudos; 90; 14; stale
+9;Factual;kudos; 90; 14; stale
+0;TransitApp;SVProgressHUD; 180; 14; stale
+2;omahajs;applied; 60; 7; wontfix
+4;exercism;xcrystal;;;
+9;exercism;xcrystal; 180; 7; stale
+5;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+8;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+9;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+1;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+2;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+5;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+1;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+9;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+0;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+3;vtrnnhlinh;vtrnnhlinh.github.io;;;
+8;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+8;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+7;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+1;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+7;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+3;vtrnnhlinh;vtrnnhlinh.github.io; 30; 7;
+6;labstack;echo; 60; 7; wontfix
+4;benbalter;jekyll-relative-links; 60; 7; wontfix
+5;benbalter;jekyll-relative-links; 60; 7; wontfix
+4;trinityfx;trinity; 366; 42; stale
+1;trinityfx;trinity; 366; 42; stale
+0;Factual;kudos21; 90; 14; stale
+1;Factual;kudos21; 90; 14; stale
+6;Factual;kudos21; 90; 14; stale
+5;Factual;kudos21; 90; 14; stale
+6;Factual;kudos21; 90; 14; stale
+0;JeffreyWay;laravel-mix; 60; 7; stale
+1;JeffreyWay;laravel-mix; 60; 3; stale
+5;parallel-js;parallel.js; 60; 7;
+4;mmistakes;so-simple-theme; 30; 7;
+4;mmistakes;so-simple-theme; 30; 7;
+2;xuhdev;vim-latex-live-preview; 90; 30; stale
+5;PowerShell;xRemoteDesktopSessionHost; 14; 40; abandoned
+5;pressbooks;pressbooks; 60; 7; stale
+0;pressbooks;pressbooks;;;
+4;pressbooks;pressbooks; 60; 7; wontfix
+1;pressbooks;pressbooks; 60; 7; wontfix
+5;typo3-themes;theme_bootstrap4;;;
+6;RasaHQ;rasa_nlu; 90; 7; stale
+6;RasaHQ;rasa_nlu; 90; 7; stale
+4;RasaHQ;rasa_nlu; 90; 7; stale
+0;RasaHQ;rasa_nlu; 90; 7; stale
+1;RasaHQ;rasa_nlu; 90; 7; stale
+4;RasaHQ;rasa_nlu; 90; 7; stale
+8;RasaHQ;rasa_nlu; 90; 7; stale
+1;RasaHQ;rasa_nlu; 90; 7; stale
+1;mobxjs;mobx-state-tree; 10; 4; stale
+3;mobxjs;mobx-state-tree; 10; 4; stale
+7;mobxjs;mobx-state-tree; 10; 4; stale
+0;mobxjs;mobx-state-tree; 10; 4; stale
+7;wso2-incubator;product-iot-server; 10; 5; Resolution
+2;wso2-incubator;product-iot-server; 10; 5; Resolution
+7;wso2-incubator;product-iot-server; 10; 5; Resolution
+0;wso2-incubator;product-iot-server; 10; 5; Resolution
+6;wso2-incubator;product-iot-server; 10; 5; Resolution
+1;wso2-incubator;product-iot-server; 10;; Resolution
+0;wso2-incubator;product-iot-server; 10;; Resolution
+1;PowerShell;xSCOM; 14; 40; abandoned
+9;decidim;decidim; 60; 7;
+4;decidim;decidim; 60; 7;
+0;decidim;decidim; 60; 7;
+8;abraxasyu;abraxasyu.github.io; 60; 7; wontfix
+6;ankane;chartkick.js; 7; 7; stale
+7;rook;rook; 90; 7; wontfix
+5;rook;rook; 90; 7; wontfix
+2;acemod;ace3-misc; 120; 30; wontfix
+7;acemod;ace3-misc; 120; 30; stale
+5;acemod;ace3-misc; 90; 7; wontfix
+3;acemod;ace3-misc; 90; 7; inactive
+4;frctl;fractal; 60; 7; wontfix
+3;frctl;fractal; 60; 7; wontfix
+6;frctl;fractal; 60; 7; inactive
+2;frctl;fractal; 60; 7; wontfix
+3;frctl;fractal; 60; 7; inactive
+8;frctl;fractal; 60; 7; inactive
+7;frctl;fractal; 60; 7; inactive
+0;kategolden;kategolden.github.io; 30; 7;
+6;kategolden;kategolden.github.io; 30; 7;
+0;kategolden;kategolden.github.io; 30; 7;
+6;kategolden;kategolden.github.io; 30; 7;
+4;kategolden;kategolden.github.io; 30; 7;
+7;kategolden;kategolden.github.io; 30; 7;
+9;kategolden;kategolden.github.io; 30; 7;
+2;kategolden;kategolden.github.io; 30; 7;
+7;rsim;oracle-enhanced; 60; 7; wontfix
+0;rsim;oracle-enhanced; 60; 7; wontfix
+1;rsim;oracle-enhanced; 60; 7; wontfix
+8;rsim;oracle-enhanced; 60; 7; wontfix
+9;rsim;oracle-enhanced; 60; 7; wontfix
+7;rsim;oracle-enhanced; 60; 7; wontfix
+5;rsim;oracle-enhanced; 60; 7; wontfix
+2;moonlight-stream;moonlight-chrome; 90; 7; stale
+8;moonlight-stream;moonlight-chrome; 90; 7; stale
+2;brynary;rack-test; 60; 7; wontfix
+5;PowerShell;xDatabase; 14; 40; abandoned
+4;McJty;LostCities; 100000; 14;
+5;Azure;azure-quickstart-templates; 30; 7; awaiting
+8;Azure;azure-quickstart-templates; 30; 7; awaiting
+7;Azure;azure-quickstart-templates; 30; 7; awaiting
+1;Azure;azure-quickstart-templates; 30; 7; awaiting
+0;Azure;azure-quickstart-templates; 30; 7; awaiting
+8;Azure;azure-quickstart-templates; 30; 7; review
+7;Azure;azure-quickstart-templates; 30; 7; review
+4;Azure;azure-quickstart-templates; 30; 7; review
+3;Azure;azure-quickstart-templates; 30; 7; review
+5;Azure;azure-quickstart-templates; 30; 7; review
+3;Azure;azure-quickstart-templates; 30; 7; review
+1;Azure;azure-quickstart-templates; 30; 7; review
+1;BlakeWilliams;rails;;; wontfix
+7;BlakeWilliams;rails;;; stale
+7;BlakeWilliams;rails; 90; 7; stale
+3;BlakeWilliams;rails; 90; 7; stale
+1;BlakeWilliams;rails; 90; 7; stale
+9;BlakeWilliams;rails; 90; 7; stale
+7;BlakeWilliams;rails; 90; 7; stale
+0;BlakeWilliams;rails; 90; 7; stale
+2;BlakeWilliams;rails; 90; 7; stale
+7;Semantic-Org;Semantic-UI-React; 90; 30; stale
+9;Semantic-Org;Semantic-UI-React; 90; 90; stale
+2;Semantic-Org;Semantic-UI-React; 180; 180; stale
+9;simont77;fakegato-history; 60; 7; stale
+8;simont77;fakegato-history; 60; 7; stale
+8;simont77;fakegato-history; 60; 7; stale
+5;stoe;pdfify-node; 30; 7; wontfix
+3;stoe;pdfify-node; 30; 7; wontfix
+6;mapbox;mapbox-java; 60;; Archived
+5;mapbox;mapbox-java; 60; 0; Archived
+5;mapbox;mapbox-java; 60;; Archived
+0;mapbox;mapbox-java; 60;; Archived
+7;PowerShell;xWinEventLog; 14; 40; abandoned
+2;PowerShell;xAzurePack; 14; 40; abandoned
+5;oppia;oppia; 30; 7; stale
+5;oppia;oppia; 7; 7; stale
+6;oppia;oppia; 10; 7; stale
+6;gorilla;sessions; 60; 7; stale
+3;github;hubot; 90; 7; stale
+3;github;hubot; 90; 7; stale
+7;github;hubot; 90; 7; stale
+3;pqrs-org;KE-complex_modifications; 60; 7; stale
+5;tony;tmuxp; 60; 7; stale
+1;PowerShell;xSCSPF; 14; 40; abandoned
+6;librenms;librenms; 60; 7; Wontfix
+3;renesansz;discord-greeter-bot; 60; 7; wontfix
+3;OWASP;pipeline; 60; 7; stale
+7;OWASP;pipeline; 60; 7; stale
+8;OWASP;pipeline; 60; 7; stale
+1;OWASP;pipeline; 60;; stale
+0;OWASP;pipeline; 60;; stale
+7;ShareX;ShareX; 180; 7; Stale
+2;mmanela;chutzpah; 90; 7; wontfix
+7;mmanela;chutzpah; 90; 7; wontfix
+8;mmanela;chutzpah; 90; 30; wontfix
+6;palantir;http-remoting; 60; 7; stale
+6;WildGums;LogViewer; 60; 7; wontfix
+6;WildGums;LogViewer; 60; 7; wontfix
+2;WildGums;LogViewer; 60; 7; wontfix
+5;pH7Software;pH7-Social-Dating-CMS; 21; 7;
+3;pH7Software;pH7-Social-Dating-CMS; 21; 7;
+6;pH7Software;pH7-Social-Dating-CMS; 21; 7;
+9;pH7Software;pH7-Social-Dating-CMS; 21; 7;
+9;pH7Software;pH7-Social-Dating-CMS; 21; 7;
+7;pH7Software;pH7-Social-Dating-CMS; 21; 7;
+4;pH7Software;pH7-Social-Dating-CMS; 21; 7;
+6;pH7Software;pH7-Social-Dating-CMS; 21; 7;
+9;pH7Software;pH7-Social-Dating-CMS; 21; 7; archived
+3;pH7Software;pH7-Social-Dating-CMS; 21; 7; archived
+8;pH7Software;pH7-Social-Dating-CMS; 17; 7; archived
+6;pH7Software;pH7-Social-Dating-CMS; 17; 7; archived
+6;hakanensari;peddler; 60; 7; wontfix
+3;linz;linz_bde_copy;;;
+9;linz;linz_bde_copy; 14; 14; Stale
+6;clarkbw;jest-webextension-mock; 30; 7; stale
+9;xvazquezc;xvazquezc.github.io; 30; 7;
+7;ampedandwired;html-webpack-plugin; 180; 15; wontfix
+0;ssbc;graphmitter; 60; 7; stale
+4;OWASP;django-DefectDojo; 45; 7; wontfix
+7;OWASP;django-DefectDojo; 45; 7; stale
+0;nolimits4web;Swiper; 60; 7; wontfix
+7;nolimits4web;Swiper; 90; 7; wontfix
+8;nolimits4web;Swiper; 90; 14; wontfix
+4;nolimits4web;Swiper; 180; 30; wontfix
+1;phpmyadmin;docker; 60; 7; wontfix
+9;PowerShell;xWindowsEventForwarding; 14; 40; abandoned
+8;TrueCommerce;vscode-xml; 30; 5; Stale
+9;TrueCommerce;vscode-xml; 30; 5; Stale
+4;TrueCommerce;vscode-xml; 30; 5; Stale
+1;TrueCommerce;vscode-xml; 30; 5; Stale
+7;caiogondim;logdown.js; 30; 7; stale
+5;dita-ot;dita-ot; 60; 7; wontfix
+9;dita-ot;dita-ot; 730; 14; stale
+9;dita-ot;dita-ot; 730; 14; stale
+7;dita-ot;dita-ot; 730; 14; stale
+7;rails;activeresource; 90; 7; stale
+8;airbnb;airflow; 90; 7; stale
+8;airbnb;airflow; 60; 7; stale
+2;airbnb;airflow; 45; 7; stale
+1;github;generator-hubot; 90; 7; stale
+9;github;generator-hubot; 90; 7; stale
+6;nteract;nteract; 90; 7; wontfix
+1;nteract;nteract; 90; 7; stale
+4;nteract;nteract; 90; 7; stale
+1;nteract;nteract; 90; 7; stale
+0;nteract;nteract; 180; 7; stale
+9;nteract;nteract; 180; 7; stale
+1;nteract;nteract; 180; 31; stale
+4;nteract;nteract; 180; 31; stale
+3;nteract;nteract; 300; 31; stale
+5;nteract;nteract; 300; 31; stale
+8;BeanSeed;BeanSeed.github.io; 30; 7;
+4;BeanSeed;BeanSeed.github.io; 30; 7;
+6;BeanSeed;BeanSeed.github.io; 30; 7;
+4;BeanSeed;BeanSeed.github.io; 30; 7;
+1;BeanSeed;BeanSeed.github.io; 30; 7;
+9;BeanSeed;BeanSeed.github.io; 30; 7;
+6;tkh44;emotion; 60; 7; stale
+0;ssbc;secret-stack; 60; 7; stale
+4;ssbc;secret-stack; 60; 7; stale
+7;ATLauncher;Discord-Bot; 60; 7; wontfix
+7;WeblateOrg;wlc; 60; 14; wontfix
+8;MessageKit;MessageKit; 14; 7; stale
+1;MessageKit;MessageKit; 14; 7; stale
+3;MessageKit;MessageKit; 14; 7; stale
+0;MessageKit;MessageKit; 14; 7; stale
+0;qgis;QGIS; 14; 7; stale
+7;qgis;QGIS; 14; 7; stale
+3;qgis;QGIS; 14; 7; stale
+6;qgis;QGIS; 14; 7; stale
+0;qgis;QGIS; 14; 7; stale
+3;dabutvin;ImgBot; 60; 7; wontfix
+4;dabutvin;ImgBot; 60; 7; wontfix
+6;dabutvin;ImgBot; 60; 7; wontfix
+2;dabutvin;ImgBot; 60; 7; goneStale
+3;dabutvin;ImgBot; 60; 7; goneStale
+7;dabutvin;ImgBot; 60; 7; goneStale
+0;dabutvin;ImgBot; 60; 7; goneStale
+2;securestate;king-phisher-plugins; 7; 7; stale
+2;securestate;king-phisher-plugins; 7; 7; stale
+3;IntellectualSites;PlotSquared; 60; 7; Old
+6;IntellectualSites;PlotSquared; 60; 7; Old
+1;PowerShell;xInternetExplorerHomePage; 14; 40; abandoned
+0;salesforce-ux;design-system-starter-kit; 60; 7; wontfix
+9;envoyproxy;envoy; 7; 7; stale
+9;envoyproxy;envoy; 7; 7; stale
+2;envoyproxy;envoy; 7; 7; stale
+3;envoyproxy;envoy; 7; 7; stale
+6;Chewbotcca;IRC; 30; 7; stale
+4;Chewbotcca;IRC; 30; 7; stale
+1;Chewbotcca;IRC; 30; 7; stale
+8;Chewbotcca;IRC; 30; 7; stale
+5;SUPERCILEX;Robot-Scouter; 7; 7; stale
+0;SUSE;Portus; 90; 7; stale
+7;SUSE;Portus; 90; 7; stale
+5;SUSE;Portus; 90; 7; stale
+8;SUSE;Portus; 90; 7; stale
+0;Pr0Ger;PyAPNs2;;; stale
+3;Pr0Ger;PyAPNs2; 182;; stale
+5;Pr0Ger;PyAPNs2; 182;; stale
+8;unitejs;engine; 30; 7; wontfix
+4;CocoaPods;cocoadocs.org; 30; 7; stale
+4;CocoaPods;cocoadocs.org; 30; 7; stale
+7;CocoaPods;cocoadocs.org; 30; 7;
+7;CocoaPods;cocoadocs.org; 30; 7;
+8;michel-kraemer;gradle-download-task; 60; 14; wontfix
+4;michel-kraemer;gradle-download-task; 60; 14; wontfix
+1;michel-kraemer;gradle-download-task; 60; 14; stale
+3;rails;rails;;; wontfix
+8;rails;rails;;; stale
+2;rails;rails; 90; 7; stale
+9;rails;rails; 90; 7; stale
+9;rails;rails; 90; 7; stale
+2;rails;rails; 90; 7; stale
+9;rails;rails; 90; 7; stale
+9;rails;rails; 90; 7; stale
+3;rails;rails; 90; 7; stale
+0;eGust;epub-reader; 60; 7;
+7;Automattic;wp-calypso; 270; 7;
+5;Automattic;wp-calypso; 270; 7;
+2;Automattic;wp-calypso; 270; 7;
+9;Automattic;wp-calypso; 270; 7;
+4;Automattic;wp-calypso; 270; 7;
+8;Automattic;wp-calypso; 270; 7;
+6;Automattic;wp-calypso; 270; 7;
+5;Automattic;wp-calypso; 270; 7;
+2;Automattic;wp-calypso; 270; 7;
+2;micro-a5k;microg-unofficial-installer;;;
+3;micro-a5k;microg-unofficial-installer; 20;; stale
+1;Linuxbrew;brew; 21; 7; stale
+3;Linuxbrew;brew; 21; 7; stale
+2;Linuxbrew;brew; 21; 7; stale
+1;idehub;react-native-billing; 60; 7; wontfix
+8;muan;hello-world; 14; 14; PR
+9;muan;hello-world; 14; 14; PR
+1;ToroCraft;ToroQuest; 60; 7; stale
+7;ToroCraft;ToroQuest; 60; 7; stale
+6;ToroCraft;ToroQuest; 60; 7; stale
+0;ToroCraft;ToroQuest; 60; 7; stale
+8;ToroCraft;ToroQuest; 60; 7; stale
+9;facebook;fresco; 7; 7; stale
+2;ToroCraft;NemesisSystem; 60; 7; stale
+9;ToroCraft;NemesisSystem; 60; 7; stale
+4;obiba;opal; 60; 7; wontfix
+2;obiba;opal; 60; 7; wontfix
+8;Belval;pdf2image; 30; 7; stale
+0;Belval;pdf2image; 30; 7; stale
+3;fanglingsu;vimb; 60; 7; stale
+5;fanglingsu;vimb; 60; 7; stale
+7;avto-dev;static-references-laravel; 80; 30; wontfix
+7;Homebrew;homebrew-core; 21; 7; stale
+7;kywk;hexi; 60; 7;
+0;kywk;hexi; 60; 7;
+3;kywk;hexi; 60; 7; wontfix
+4;kywk;hexi; 60; 7; wontfix
+8;kywk;hexi; 60; 7; stale
+7;kywk;hexi; 60; 7; stale
+7;Pipeoverflow;website; 60; 7; wontfix
+1;palantir;gradle-baseline; 60; 7; stale
+9;Jasig;cas; 14; 7; Pending
+1;Jasig;cas; 14; 7; Pending
+1;Jasig;cas; 14; 7; Pending
+1;Jasig;cas; 7; 7; Pending
+4;Jasig;cas; 7; 7; Pending
+7;Jasig;cas; 7; 7; Pending
+1;Jasig;cas; 5; 5; Pending
+7;travis-ci;dpl; 80; 10; stale
+1;travis-ci;dpl; 80; 10; stale
+2;travis-ci;dpl; 80; 10; stale
+9;travis-ci;dpl; 80; 10; stale
+5;travis-ci;dpl; 90; 1; stale
+1;travis-ci;dpl; 90; 1; stale
+9;travis-ci;dpl; 90; 1; stale
+8;travis-ci;dpl; 90; 1; stale
+7;travis-ci;dpl; 90; 1; stale
+9;timgrossmann;InstaPy; 30; 7; wontfix
+1;timgrossmann;InstaPy; 30; 7; wontfix
+4;timgrossmann;InstaPy; 30; 7; wontfix
+0;timgrossmann;InstaPy; 30; 7; wontfix
+2;timgrossmann;InstaPy; 30; 7; wontfix
+6;timgrossmann;InstaPy; 30; 7; wontfix
+1;PowerShell;xSmbShare; 14; 40; abandoned
+3;donovanwatts;donovanwatts.github.io; 30; 7;
+2;donovanwatts;donovanwatts.github.io; 30; 7;
+4;donovanwatts;donovanwatts.github.io; 30; 7;
+5;donovanwatts;donovanwatts.github.io; 30; 7;
+6;donovanwatts;donovanwatts.github.io; 30; 7;
+3;donovanwatts;donovanwatts.github.io; 30; 7;
+8;donovanwatts;donovanwatts.github.io; 30; 7;
+0;donovanwatts;donovanwatts.github.io; 30; 7;
+5;exercism;xjavascript;;;
+9;exercism;xjavascript;;;
+8;exercism;xjavascript;;;
+5;CHEF-KOCH;regtweaks; 30; 7;
+6;chentsulin;electron-react-boilerplate; 60; 7;
+4;CartoDB;cartodb; 365; 7; wontfix
+2;CartoDB;cartodb; 365; 7; stale
+2;CartoDB;cartodb; 365; 7; stale
+3;CartoDB;cartodb; 365; 7; stale
+8;CartoDB;cartodb; 365; 7; stale
+0;CartoDB;cartodb; 365; 7; stale
+5;CartoDB;cartodb; 365; 7; stale
+2;CartoDB;cartodb; 365; 7; stale
+7;CartoDB;cartodb; 365; 7; stale
+4;CartoDB;cartodb; 365; 7; stale
+0;CartoDB;cartodb; 365; 7; stale
+9;CartoDB;cartodb; 365; 7; stale
+5;CartoDB;cartodb; 365; 7; stale
+4;CartoDB;cartodb; 365; 7; stale
+2;CartoDB;cartodb; 365; 7; stale
+0;CartoDB;cartodb; 365; 7; stale
+7;CartoDB;cartodb; 365; 7; stale
+1;CartoDB;cartodb; 365; 7; stale
+6;CartoDB;cartodb; 365; 7; stale
+9;CartoDB;cartodb; 365; 7; stale
+1;CartoDB;cartodb; 365; 7; stale
+8;CartoDB;cartodb; 365; 7; stale
+2;CartoDB;cartodb; 365; 7; stale
+4;CartoDB;cartodb; 365; 7; stale
+7;CartoDB;cartodb; 365; 7; stale
+3;CartoDB;cartodb; 365; 7; stale
+8;CartoDB;cartodb; 365; 7; stale
+5;njleonzhang;vue-data-tables; 30; 14; wontfix
+6;njleonzhang;vue-data-tables; 30; 14; stale
+8;ssbc;ssb-ref; 60; 7; stale
+4;ssbc;ssb-ref; 60; 7; stale
+3;EmergingTechnologyAdvisors;node-serialport; 60; 7; wontfix
+5;EmergingTechnologyAdvisors;node-serialport; 60; 7; stale
+4;StarExec;code-prettify; 60; 7; wontfix
+2;feross;webtorrent-desktop; 90; 7; stale
+8;feross;webtorrent-desktop; 90; 7; stale
+7;feross;webtorrent-desktop; 90; 7; stale
+5;feross;webtorrent-desktop; 90; 7; stale
+6;Glavin001;atom-beautify; 60; 7; stale
+8;Glavin001;atom-beautify; 60; 7; stale
+4;Glavin001;atom-beautify; 60; 7; stale
+2;Glavin001;atom-beautify; 60; 7; stale
+5;Glavin001;atom-beautify; 60; 7; stale
+3;Glavin001;atom-beautify; 60; 7; stale
+2;yoshuawuyts;bankai; 90; 7; wontfix
+0;mwarkentin;django-watchman; 60; 7; stale
+0;mwarkentin;django-watchman; 60; 7; stale
+5;mwarkentin;django-watchman; 60; 7; stale
+2;firefly-iii;firefly-iii; 30; 7; stale
+7;firefly-iii;firefly-iii; 30; 7; stale
+6;firefly-iii;firefly-iii; 14; 7; stale
+2;firefly-iii;firefly-iii; 14; 7; stale
+9;firefly-iii;firefly-iii; 14; 7; stale
+6;avtocod;b2b-api-php-laravel; 80; 30; wontfix
+8;typo3-themes;themes_showcase;;;
+6;PowerShell;xFailOverCluster; 14; 40; abandoned
+1;mathieujobin;reduced-rails-for-travis;;; wontfix
+4;mathieujobin;reduced-rails-for-travis;;; stale
+8;mathieujobin;reduced-rails-for-travis; 90; 7; stale
+1;mathieujobin;reduced-rails-for-travis; 90; 7; stale
+3;mathieujobin;reduced-rails-for-travis; 90; 7; stale
+8;mathieujobin;reduced-rails-for-travis; 90; 7; stale
+2;mathieujobin;reduced-rails-for-travis; 90; 7; stale
+9;ethereum;go-ethereum; 366; 42; stale
+1;ethereum;go-ethereum; 366; 42; stale
+2;ethereum;go-ethereum; 366; 42;
+1;ethereum;go-ethereum; 366; 42;
+5;openrazer;openrazer; 120; 30; wontfix
+4;openrazer;openrazer; 120; 30; wontfix
+1;CHEF-KOCH;CryptoNews; 30; 7;
+6;PlagueHO;FSRMDsc; 14; 40; abandoned
+5;PlagueHO;FSRMDsc; 14; 40; abandoned
+5;nspragg;filehound; 5; 7; wontfix
+5;nspragg;filehound; 5; 7; wontfix
+3;Laravel-Backpack;Generators; 60; 14; stale
+7;Laravel-Backpack;Generators; 60; 14; stale
+6;Laravel-Backpack;Generators; 60; 14; stale
+1;Laravel-Backpack;Generators; 60; 14; stale
+8;gpu0;gpu0.github.io; 30; 7;
+3;gpu0;gpu0.github.io; 30; 7;
+1;gpu0;gpu0.github.io; 30; 7;
+4;gpu0;gpu0.github.io; 30; 7;
+1;gpu0;gpu0.github.io; 30; 7;
+7;gpu0;gpu0.github.io; 30; 7;
+0;gpu0;gpu0.github.io; 30; 7;
+5;gpu0;gpu0.github.io; 30; 7;
+0;gpu0;gpu0.github.io; 30; 7;
+7;gpu0;gpu0.github.io; 30; 7;
+4;zooniverse;Panoptes; 120; 7; stale
+6;zooniverse;Panoptes; 120; 7; stale
+6;Laravel-Backpack;permissionmanager; 60; 14; stale
+8;Laravel-Backpack;permissionmanager; 60; 14; stale
+0;sverweij;dependency-cruiser; 14; 7; wontfix
+0;sverweij;dependency-cruiser; 7; 2; stale
+9;sverweij;dependency-cruiser; 7; 2; stale
+0;parksw3;parksw3.github.io; 60; 7; wontfix
+7;askmike;gekko; 60; 7; wontfix
+7;phingofficial;phing; 60; 7; wontfix
+9;phingofficial;phing; 180; 60; wontfix
+6;ssbc;patchwork; 60; 7; stale
+0;ssbc;patchwork; 60; 7; stale
+5;ssbc;patchwork; 60; 7; stale
+3;mikesplain;openvas-docker; 60; 30; stale
+4;mikesplain;openvas-docker; 60; 30; stale
+2;mikesplain;openvas-docker; 60; 30; stale
+2;jimmidyson;minishift; 60; 14; status
+0;amar-laksh;brew_sudo; 21; 7; stale
+0;amar-laksh;brew_sudo; 21; 7; stale
+7;Screenly;screenly-ose; 60; 7; wontfix
+7;Screenly;screenly-ose; 60; 7; stale
+4;gorilla;schema; 60; 7; stale
+0;jsbin;jsbin; 30; 7; stale
+5;jsbin;jsbin; 30; 7; stale
+6;s0ph1e;node-css-url-parser; 60; 7; wontfix
+2;GoogleCloudPlatform;professional-services; 45; 7; stale
+5;GoogleCloudPlatform;professional-services; 45; 7; stale
+8;GoogleCloudPlatform;professional-services; 45; 7; stale
+9;GoogleCloudPlatform;professional-services; 45; 7; stale
+9;GoogleCloudPlatform;professional-services; 45; 7; stale
+0;bfontaine;homebrew-command-not-found; 21; 7; stale
+1;bfontaine;homebrew-command-not-found; 21; 7; stale
+0;McJty;RFTools; 100000; 14;
+2;ssbc;nicedate; 60; 7; stale
+6;georgeluong;georgeluong.github.io; 30; 7;
+0;georgeluong;georgeluong.github.io; 30; 7;
+9;georgeluong;georgeluong.github.io; 30; 7;
+2;jzaefferer;jquery-validation; 30; 7; stale
+8;jzaefferer;jquery-validation; 60; 7; stale
+1;mfariacastro;mfariacastro.github.io; 30; 7;
+1;mfariacastro;mfariacastro.github.io; 30; 7;
+5;mfariacastro;mfariacastro.github.io; 30; 7;
+3;mfariacastro;mfariacastro.github.io; 30; 7;
+4;niosus;EasyClangComplete; 60; 7; wontfix
+6;storybooks;storybook; 45; 45; inactive
+4;storybooks;storybook; 55; 5; inactive
+1;storybooks;storybook; 85; 5; inactive
+2;storybooks;storybook; 85; 5; inactive
+3;storybooks;storybook; 85; 5; inactive
+3;storybooks;storybook; 85; 5; inactive
+6;storybooks;storybook; 85; 5; inactive
+5;storybooks;storybook; 85; 5; inactive
+7;storybooks;storybook; 85; 5; inactive
+8;storybooks;storybook; 85; 5; inactive
+2;storybooks;storybook; 85; 5; inactive
+4;storybooks;storybook; 85; 5; inactive
+0;storybooks;storybook; 88; 2; inactive
+7;storybooks;storybook; 88; 2; inactive
+4;storybooks;storybook; 45; 15; inactive
+9;storybooks;storybook; 45; 15; inactive
+7;storybooks;storybook; 45; 15; inactive
+0;storybooks;storybook; 45; 15; inactive
+5;storybooks;storybook; 45; 15; inactive
+5;storybooks;storybook; 45; 15; inactive
+6;storybooks;storybook; 45; 15; inactive
+8;storybooks;storybook; 45; 15; inactive
+1;storybooks;storybook; 45; 15; inactive
+9;storybooks;storybook; 45; 15; inactive
+1;storybooks;storybook; 45; 15; inactive
+2;storybooks;storybook; 45; 15; inactive
+6;storybooks;storybook; 45; 15; inactive
+8;storybooks;storybook; 45; 15; inactive
+5;storybooks;storybook; 45; 15; inactive
+9;storybooks;storybook; 45; 15; inactive
+9;storybooks;storybook; 45; 15; inactive
+8;storybooks;storybook; 45; 15; inactive
+8;storybooks;storybook; 45; 15; inactive
+8;storybooks;storybook; 45; 15; inactive
+2;storybooks;storybook; 45; 15; inactive
+6;storybooks;storybook; 45; 15; inactive
+4;storybooks;storybook; 45; 15; inactive
+9;storybooks;storybook; 45; 15; inactive
+6;storybooks;storybook; 45; 15; inactive
+4;storybooks;storybook; 45; 15; inactive
+9;storybooks;storybook; 45; 15; inactive
+5;storybooks;storybook; 45; 15; inactive
+5;storybooks;storybook; 45; 15; inactive
+5;storybooks;storybook; 45; 15; inactive
+7;storybooks;storybook; 45; 15; inactive
+2;storybooks;storybook; 45; 15; inactive
+4;storybooks;storybook; 45; 15; inactive
+3;storybooks;storybook; 45; 15; inactive
+7;storybooks;storybook; 45; 15; inactive
+5;storybooks;storybook; 21; 30; inactive
+4;storybooks;storybook; 21; 30; inactive
+4;storybooks;storybook; 21; 30; inactive
+0;storybooks;storybook; 21; 30; inactive
+0;storybooks;storybook; 21; 30; inactive
+1;storybooks;storybook; 21; 30; inactive
+0;storybooks;storybook; 21; 30; inactive
+5;storybooks;storybook; 21; 30; inactive
+0;storybooks;storybook; 21; 30; inactive
+2;storybooks;storybook; 21; 30; inactive
+3;storybooks;storybook; 21; 30; inactive
+1;storybooks;storybook; 21; 30; inactive
+3;storybooks;storybook; 21; 30; inactive
+9;storybooks;storybook; 21; 30; inactive
+0;storybooks;storybook; 21; 30; inactive
+6;storybooks;storybook; 21; 30; inactive
+5;storybooks;storybook; 21; 30; inactive
+3;storybooks;storybook; 21; 30; inactive
+7;storybooks;storybook; 21; 30; inactive
+3;storybooks;storybook; 21; 30; inactive
+7;storybooks;storybook; 21; 30; inactive
+6;storybooks;storybook; 21; 30; inactive
+8;storybooks;storybook; 21; 30; inactive
+6;LinioIT;common; 3;; stale
+3;PowerShell;xSCSMA; 14; 40; abandoned
+9;PowerShell;xSystemSecurity; 14; 40; abandoned
+9;coliff;bootstrap-ie8; 60; 7; wontfix
+4;coliff;bootstrap-ie8; 90; 14; wontfix
+0;coliff;bootstrap-ie8; 365; 365; wontfix
+9;jshjohnson;Choices; 60; 7; wontfix
+9;jshjohnson;Choices; 60; 7; stale
+8;typo3-themes;theme_bootstrap_appstrap;;;
+8;feathersjs;feathers-rx; 84; 7; wontfix
+6;andreipitis;ASPVideoPlayer; 60; 14; stale
+2;DemonWav;IntelliJBukkitSupport; 30; 7;
+6;DemonWav;IntelliJBukkitSupport; 30; 7;
+5;DemonWav;IntelliJBukkitSupport; 30; 7;
+6;DemonWav;IntelliJBukkitSupport; 30; 7;
+0;DemonWav;IntelliJBukkitSupport; 30; 14;
+0;DemonWav;IntelliJBukkitSupport; 30; 14;
+7;DemonWav;IntelliJBukkitSupport; 30; 14;
+3;getantibody;antibody; 60; 7; wontfix
+3;athaynes;AuditPolicyDsc; 14; 40; abandoned
+7;gocraft;dbr; 60; 7; wontfix
+4;jekyll-fr;jekyll-fr.github.io; 60; 7; stale
+2;jekyll-fr;jekyll-fr.github.io; 90; 7; stale
+9;mattstratton;bowie; 60; 7; wontfix
+1;PowerShell;xActiveDirectory; 14; 40; abandoned
+6;PowerShell;xActiveDirectory; 14; 40; abandoned
+8;PowerShell;xActiveDirectory; 14; 40; abandoned
+4;PowerShell;xExchange; 14; 40; abandoned
+4;DataDog;integrations-extras; 60; 14; wontfix
+2;DataDog;integrations-extras; 60; 14; wontfix
+7;DataDog;integrations-extras; 60; 14; stale
+2;eruizdechavez;grunt-string-replace; 60; 7; wontfix
+3;eruizdechavez;grunt-string-replace; 60; 7; wontfix
+4;spotify;docker-gc; 60; 7; stale
+0;spotify;docker-gc; 60; 7; stale
+9;McJty;compatlayer; 100000; 14;
+4;cleanflight;cleanflight; 30; 7; Inactive
+8;cleanflight;cleanflight; 30; 7; Inactive
+5;cleanflight;cleanflight; 30; 7; Inactive
+0;cleanflight;cleanflight; 30; 7; Inactive
+2;cleanflight;cleanflight; 30; 7; Inactive
+0;cleanflight;cleanflight; 30; 7; Inactive
+3;cleanflight;cleanflight; 30; 7; Inactive
+2;moonlight-stream;moonlight-ios; 90; 7; stale
+4;yacir;YBSlantedCollectionViewLayout; 60; 7; stale
+6;localheinz;test-util; 60; 7; stale
+9;localheinz;test-util; 60; 7; stale
+2;hypothesis;via;;; stale
+1;hypothesis;via;;; stale
+2;PowerShell;xAdcsDeployment; 14; 40; abandoned
+0;PowerShell;xAdcsDeployment; 14; 40; abandoned
+9;toastdriven;pysolr; 90; 30; stale
+8;toastdriven;pysolr; 90; 30; stale
+5;toastdriven;pysolr; 90; 30; stale
+4;McJty;DeepResonance; 100000; 14;
+0;fcrespo82;atom-markdown-table-formatter; 90; 7; wontfix
+2;fcrespo82;atom-markdown-table-formatter; 90; 7; stale
+1;ubuntu;conjure-up; 120; 7; wontfix
+1;ubuntu;conjure-up; 120; 7; wontfix
+6;ubuntu;conjure-up; 120; 7; wontfix
+0;lildude;phpZenfolio; 14; 2; stale
+4;react-native-sensors;react-native-sensors; 30; 7; stale
+0;nelson6e65;php_nml; 90; 7; staled
+6;nelson6e65;php_nml; 90; 7; staled
+5;pmviva;mention_system; 240; 7; wontfix
+6;vcidst;vcidst.github.io; 30; 7;
+3;vcidst;vcidst.github.io; 30; 7;
+6;vcidst;vcidst.github.io; 30; 7;
+5;vcidst;vcidst.github.io; 30; 7;
+6;vcidst;vcidst.github.io; 30; 7;
+9;vcidst;vcidst.github.io; 30; 7;
+2;vcidst;vcidst.github.io; 30; 7;
+2;vcidst;vcidst.github.io; 30; 7;
+4;vcidst;vcidst.github.io; 30; 7;
+6;vcidst;vcidst.github.io; 30; 7;
+8;vcidst;vcidst.github.io; 30; 7;
+5;vcidst;vcidst.github.io; 30; 7;
+8;vcidst;vcidst.github.io; 30; 7;
+3;vcidst;vcidst.github.io; 30; 7;
+9;vcidst;vcidst.github.io; 30; 7;
+1;michel-kraemer;bson4jackson; 60; 14; stale
+4;LIISim;liisim.github.io; 30; 7;
+1;LIISim;liisim.github.io; 30; 7;
+1;LIISim;liisim.github.io; 30; 7;
+4;LIISim;liisim.github.io; 30; 7;
+7;blacktop;go-malice; 60; 7; wontfix
+7;gorilla;csrf; 60; 7; stale
+5;cesarferreira;drone; 30; 7; wontfix
+9;cesarferreira;drone; 30; 7; wontfix
+7;instagrambot;instabot; 60; 14; stale
+9;instagrambot;instabot; 60; 14; stale
+0;instagrambot;instabot; 60; 14; stale
+7;rimusz;helm-charts; 30; 14;
+3;rimusz;helm-charts; 30; 14; lifecycle
+1;bazzite;nativescript-vibrate; 14; 7; wontfix
+2;gorilla;handlers; 60; 7; stale
+4;ssbc;examples; 60; 7; stale
+9;auth0-extensions;auth0-source-control-extension-tools;;;
+6;feathersjs;feathers-memory; 84; 7; wontfix
+8;anarchicknight;nativescript-vibrate; 14; 7; wontfix
+1;goern;mattermost-openshift; 60; 7; wontfix
+1;ScriptonBasestar-Lib;sb-tool-jvm; 90; 30; stale
+6;ScriptonBasestar-Lib;sb-tool-jvm; 90; 30; stale
+7;SilentChaos512;SilentGems; 60; 10; stale
+2;SilentChaos512;SilentGems; 60; 10; stale
+6;SilentChaos512;SilentGems; 90; 10; stale
+4;atom;atom; 730; 30; stale
+0;atom;atom; 730; 30; stale
+6;atom;atom; 730; 30; stale
+1;atom;atom; 730; 30; stale
+5;atom;atom; 730; 30; stale
+0;atom;atom; 730; 30; stale
+8;atom;atom; 365; 14; stale
+2;atom;atom; 365; 14; stale
+2;atom;atom; 365; 14; stale
+7;atom;atom; 365; 14; stale
+2;atom;atom; 365; 14; stale
+4;atom;atom; 365; 14; stale
+3;atom;atom; 365; 14; stale
+6;atom;atom; 365; 14; stale
+4;atom;atom; 365; 14; stale
+6;atom;atom; 365; 14; stale
+3;atom;atom; 365; 14; stale
+1;atom;atom; 365; 14; stale
+5;atom;atom; 365; 14; stale
+5;atom;atom; 365; 14; stale
+7;atom;atom; 365; 14; stale
+5;atom;atom; 365; 14; stale
+6;SilentChaos512;ScalingHealth; 60; 10; wontfix
+8;SilentChaos512;ScalingHealth; 60; 10; wontfix
+2;SilentChaos512;ScalingHealth; 90; 10; wontfix
+4;klen;python-mode; 150; 21; inactive
+8;stevenschobert;instafeed.js; 90; 7; stale
+3;IntellectualCrafters;PlotSquared; 60; 7; Old
+6;IntellectualCrafters;PlotSquared; 60; 7; Old
+6;feathersjs;feathers-rethinkdb; 84; 7; wontfix
+3;vincentriemer;io-808; 60; 7; wontfix
+5;ssbc;patchbay; 60; 7; stale
+2;ssbc;patchbay; 60; 7; stale
+4;chainer;chainer; 90; 30; stale
+1;chainer;chainer; 90; 30; stale
+0;chainer;chainer; 90; 30; stale
+0;chainer;chainer; 90; 30; stale
+4;chainer;chainer; 90; 30; stale
+8;chainer;chainer; 90; 30; stale
+5;chainer;chainer; 90; 30; stale
+6;chainer;chainer; 90; 30; stale
+4;chainer;chainer; 90; 30; stale
+3;chainer;chainer; 90; 30; stale
+4;chainer;chainer; 90; 30; stale
+2;chainer;chainer; 90; 30; stale
+0;chainer;chainer; 90; 30; stale
+2;chainer;chainer; 90; 30; stale
+1;chainer;chainer; 90; 30; stale
+6;chainer;chainer; 90; 30; stale
+6;chainer;chainer; 90; 30; stale
+3;chainer;chainer; 90; 30; stale
+5;chainer;chainer; 90; 30; stale
+1;chainer;chainer; 90; 30; stale
+6;chainer;chainer; 90; 30; stale
+8;chainer;chainer; 90; 30; stale
+9;chainer;chainer; 90; 30; stale
+7;chainer;chainer; 90; 30; stale
+9;chainer;chainer; 90; 30; stale
+0;chainer;chainer; 90; 30; stale
+6;chainer;chainer; 90; 30; stale
+4;chainer;chainer; 90; 30; stale
+8;chainer;chainer; 90; 30; stale
+1;chainer;chainer; 90; 30; stale
+8;chainer;chainer; 90; 30; stale
+7;chainer;chainer; 90; 30; stale
+2;chainer;chainer; 90; 30; stale
+0;chainer;chainer; 90; 30; stale
+6;chainer;chainer; 90; 30; stale
+7;chainer;chainer; 90; 30; stale
+5;chainer;chainer; 90; 30; stale
+6;chainer;chainer; 90; 30; stale
+0;dudok;dudok.github.io; 60; 7; wontfix
+8;MysteriumNetwork;node; 90; 60; stale
+4;MysteriumNetwork;node; 90; 60; stale
+2;MysteriumNetwork;node; 90; 60; stale
+1;MysteriumNetwork;node; 90; 60; stale
+5;MysteriumNetwork;node; 90; 60; stale
+0;MysteriumNetwork;node; 90; 60; stale
+1;MysteriumNetwork;node; 90; 60; stale
+6;MysteriumNetwork;node; 90; 60; stale
+0;spike-lab;spike-lab.github.io; 30; 7;
+4;exercism;xperl5;;;
+7;exercism;xperl5; 180; 7; stale
+6;exercism;xperl5; 180; 7; stale
+9;nnadeau;pybotics; 60; 7; wontfix
+4;nnadeau;pybotics; 60; 7; wontfix
+1;nnadeau;pybotics; 60;; wontfix
+9;nnadeau;pybotics; 60;; stale
+7;nnadeau;pybotics; 60;; stale
+8;nnadeau;pybotics; 60;; stale
+7;nnadeau;pybotics; 60;; stale
+9;nnadeau;pybotics; 60;; stale
+2;nnadeau;pybotics; 60;; stale
+6;nnadeau;pybotics; 60;; stale
+7;nnadeau;pybotics; 60;; stale
+1;nnadeau;pybotics; 60;; stale
+0;nnadeau;pybotics; 60;; stale
+2;node-serialport;node-serialport; 60; 7; wontfix
+1;node-serialport;node-serialport; 60; 7; stale
+6;checkr;codeflow; 30; 7; wontfix
+3;PowerShell;xCredSSP; 14; 40; abandoned
+2;ssbc;secure-scuttlebutt; 60; 7; stale
+6;ssbc;secure-scuttlebutt; 60; 7; stale
+7;ssbc;secure-scuttlebutt; 60; 7; stale
+9;ssbc;secure-scuttlebutt; 60; 7; stale
+4;kura;hauntr;;;
+3;ZoneMinder;ZoneMinder; 60; 7; stale
+6;ZoneMinder;ZoneMinder; 60; 7; stale
+1;ZoneMinder;ZoneMinder; 60; 7; stale
+8;ZoneMinder;ZoneMinder; 60; 7; stale
+0;ZoneMinder;ZoneMinder; 60; 7; stale
+5;ZoneMinder;ZoneMinder; 60; 7; stale
+6;ZoneMinder;ZoneMinder; 60; 7; stale
+4;WoLpH;numpy-stl; 60; 7; no
+4;WoLpH;numpy-stl; 60; 7; no
+8;WoLpH;numpy-stl; 60; 7; no
+6;WoLpH;numpy-stl; 60; 7; no
+5;raphael;goa; 60; 7; wontfix
+2;raphael;goa; 60; 7; wontfix
+4;KevinKelley;KevinKelley.github.io; 60; 7; wontfix
+1;apache;incubator-airflow; 90; 7; stale
+4;apache;incubator-airflow; 60; 7; stale
+9;apache;incubator-airflow; 45; 7; stale
+7;pathawks;jekyll-commonmark; 60; 7; wontfix
+9;kura;pelican_vimeo;;;
+3;exercism;xlua; 60; 7; wontfix
+5;nozzle;react-static; 30; 7; stale
+6;serverspec;serverspec; 60; 7; wontfix
+3;SebastianM;angular-google-maps; 90; 7; stale
+3;clostra;dcdn; 60; 7; wontfix
+7;clostra;dcdn; 60; 7; wontfix
+8;request;request; 365; 7; stale
+3;request;request; 365; 7; stale
+4;request;request; 365; 7; stale
+9;request;request; 365; 7; stale
+0;request;request; 365; 7; stale
+4;buildbot;buildbot; 60; 7; stalled
+4;buildbot;buildbot; 60; 7; stalled
+4;buildbot;buildbot; 60; 67; stalled
+2;buildbot;buildbot; 60; 67; stalled
+2;auth0;auth0-logs-to-loggly;;;
+8;howdyai;botkit; 60; 7; stale
+8;howdyai;botkit; 60; 7; stale
+6;howdyai;botkit; 60; 7; stale
+4;wso2-dev;product-device-cloud; 10; 5; Resolution
+0;wso2-dev;product-device-cloud; 10; 5; Resolution
+4;wso2-dev;product-device-cloud; 10; 5; Resolution
+3;wso2-dev;product-device-cloud; 10; 5; Resolution
+3;wso2-dev;product-device-cloud; 10; 5; Resolution
+5;wso2-dev;product-device-cloud; 10;; Resolution
+4;wso2-dev;product-device-cloud; 10;; Resolution
+6;PowerShell;xPendingReboot; 14; 40; abandoned
+1;apereo;cas; 14; 7; Pending
+7;apereo;cas; 14; 7; Pending
+1;apereo;cas; 14; 7; Pending
+5;apereo;cas; 7; 7; Pending
+2;apereo;cas; 7; 7; Pending
+7;apereo;cas; 7; 7; Pending
+5;apereo;cas; 5; 5; Pending
+9;samvera;hyrax; 30; 7; stale
+3;samvera;hyrax; 30; 14; stale
+1;samvera;hyrax; 30; 14; stale
+9;samvera;hyrax; 30; 14; stale
+2;samvera;hyrax; 30; 14; stale
+4;nicolaiarocci;eve-swagger; 180;; stale
+8;timedreamer;timedreamer.github.io; 30; 7;
+9;timedreamer;timedreamer.github.io; 30; 7;
+4;timedreamer;timedreamer.github.io; 30; 7;
+9;timedreamer;timedreamer.github.io; 30; 7;
+0;timedreamer;timedreamer.github.io; 30; 7;
+0;timedreamer;timedreamer.github.io; 30; 7;
+5;exercism;xruby;;;
+9;exercism;xruby;;;
+8;exercism;xruby; 60; 7; stale
+7;exercism;xruby; 60; 7; stale
+0;apollographql;react-apollo; 14; 7;
+1;apollographql;react-apollo; 14; 7;
+6;apollographql;react-apollo; 14; 7;
+5;apollographql;react-apollo; 21; 14; no
+6;sapcc;kubernikus; 30; 7; wontfix
+4;sapcc;kubernikus; 90; 7; wontfix
+4;DemonWav;MinecraftDev; 30; 7;
+6;DemonWav;MinecraftDev; 30; 7;
+4;DemonWav;MinecraftDev; 30; 7;
+9;DemonWav;MinecraftDev; 30; 7;
+8;DemonWav;MinecraftDev; 30; 14;
+5;DemonWav;MinecraftDev; 30; 14;
+9;DemonWav;MinecraftDev; 30; 14;
+2;Catel;Catel.Fody; 60; 7; wontfix
+1;Catel;Catel.Fody; 60; 7; wontfix
+7;Catel;Catel.Fody; 60; 7; wontfix
+8;Catel;Catel.Fody; 60; 7; wontfix
+9;mezz;JustEnoughItems; 30; 7; stale
+2;Samfox2;homebridge-videodoorbell; 60; 7; stale
+4;mukeshsolanki;country-picker-android; 60; 7; stale
+5;mukeshsolanki;country-picker-android; 60; 7; stale
+7;mukeshsolanki;country-picker-android; 60; 7; stale
+8;nolimits4web;Framework7; 60; 7; wontfix
+9;nolimits4web;Framework7; 90; 7; wontfix
+2;nolimits4web;Framework7; 90; 14; wontfix
+6;nolimits4web;Framework7; 90; 14; wontfix
+3;nolimits4web;Framework7; 90; 14; wontfix
+5;ssbc;packet-stream; 60; 7; stale
+7;angular-ui;ng-grid; 60; 30; stale
+0;PowerShell;xRemoteDesktopAdmin; 14; 40; abandoned
+1;PX4;Firmware; 60; 14; status
+5;viddo;recent-files-fuzzy-finder; 60; 7; wontfix
+6;viddo;recent-files-fuzzy-finder;;;
+4;clarkbw;jest-localstorage-mock; 30; 7; stale
+6;clarkbw;jest-localstorage-mock; 30; 7; stale
+9;kura;ghastly;;;
+9;raulriera;TextFieldEffects; 21; 3; stale
+7;xCss;Valine; 60; 7; wontfix
+1;paramaggarwal;react-dropzone; 60; 7; stale
+1;paramaggarwal;react-dropzone; 60; 7; stale
+5;paramaggarwal;react-dropzone; 60; 7; stale
+1;Daltron;NotificationBanner; 60; 7; wontfix
+4;strongloop;loopback-faq-user-management; 60; 14; stale
+6;ropensci;screencasts; 60; 7; wontfix
+3;getinsomnia;insomnia; 60; 7; Stale
+1;getinsomnia;insomnia; 60; 7; Stale
+3;getinsomnia;insomnia; 60; 7; Stale
+6;getinsomnia;insomnia; 60; 7; Stale
+4;giulio92;GLExtendedWebView; 60; 7; closed
+0;giulio92;GLExtendedWebView; 60; 7; standby
+0;PowerShell;xDismFeature; 14; 40; abandoned
+6;fszlin;certes; 60; 7; wontfix
+5;LanikSJ;ubo-filters; 60; 7; wontfix
+0;dowjones;react-dropdown-tree-select; 30; 7; wontfix
+5;dowjones;react-dropdown-tree-select; 15; 7; wontfix
+9;dowjones;react-dropdown-tree-select; 15; 7; stale
+5;dowjones;react-dropdown-tree-select; 15; 7; stale
+1;PowerShell;xFirefox; 14; 40; abandoned
+4;alexanderepstein;Bash-Snippets; 25; 5; Stale
+6;Moya;Moya; 60; 14;
+6;Moya;Moya; 60; 14;
+8;Moya;Moya; 60; 14;
+7;Moya;Moya; 60; 14;
+9;Moya;Moya; 45; 14;
+5;Moya;Moya; 45; 14;
+5;Moya;Moya; 45; 14;
+5;Moya;Moya; 45; 14;
+5;Moya;Moya; 45; 14;
+4;Moya;Moya; 45; 14;
+6;Moya;Moya; 45; 14;
+5;Moya;Moya; 45; 14;
+6;Moya;Moya; 45; 14;
+3;Moya;Moya; 45; 14;
+5;Moya;Moya; 45; 14;
+9;Moya;Moya; 45; 14;
+0;Moya;Moya; 45; 14; no
+2;Moya;Moya; 45; 14; no
+4;Moya;Moya; 45; 14; no
+2;Moya;Moya; 45; 14; stale
+8;Moya;Moya; 45; 14; stale
+9;Moya;Moya; 45; 14; stale
+9;Moya;Moya; 30; 7; stale
+1;Moya;Moya; 30; 7; stale
+5;Moya;Moya; 14; 7; stale
+2;Moya;Moya; 14; 7; stale
+8;Moya;Moya; 14; 7; stale
+5;Moya;Moya; 14; 7; stale
+0;Moya;Moya; 14; 7; stale
+5;Moya;Moya; 14; 7; stale
+5;Moya;Moya; 14; 7; stale
+0;spotify;luigi; 120; 14; wontfix
+4;spotify;docker-maven-plugin; 60; 7; stale
+6;spotify;docker-maven-plugin; 60; 7; stale
+3;PowerShell;xDhcpServer; 14; 40; abandoned
+6;BillyBlaze;OctoPrint-TouchUI; 14; 7; inactive
+7;BillyBlaze;OctoPrint-TouchUI; 14; 7; inactive
+4;BillyBlaze;OctoPrint-TouchUI; 14; 7; inactive
+8;monterail;vue-multiselect; 30; 7; wontfix
+2;monterail;vue-multiselect; 30; 7; wontfix
+3;cucumber;cucumber-ruby; 60; 7; Stale
+2;cucumber;cucumber-ruby; 60; 7; Stale
+8;cucumber;cucumber-ruby; 60; 7; Stale
+7;cucumber;cucumber-ruby; 60; 7; Stale
+2;cucumber;cucumber-ruby; 60; 7; Stale
+1;cucumber;cucumber-ruby; 60; 7; Stale
+7;cucumber;cucumber-ruby; 60; 7; Stale
+6;cucumber;cucumber-ruby; 60; 7; Stale
+2;cucumber;cucumber-ruby; 60; 7; Stale
+8;cucumber;cucumber-ruby; 60; 7; Stale
+0;pages-themes;slate; 60; 7; wontfix
+2;nteract;composition; 90; 7; wontfix
+5;nteract;composition; 90; 7; stale
+2;nteract;composition; 90; 7; stale
+9;nteract;composition; 90; 7; stale
+7;nteract;composition; 180; 7; stale
+9;nteract;composition; 180; 7; stale
+8;nteract;composition; 180; 31; stale
+1;nteract;composition; 180; 31; stale
+2;nteract;composition; 300; 31; stale
+3;nteract;composition; 300; 31; stale
+2;feathersjs;feathers-sequelize; 84; 7; wontfix
+5;agrc;agrc.github.io; 60; 7; wontfix
+7;LinioIT;queue; 3;; stale
+7;bortek;EZ-WifiBroadcast; 90; 7; stale
+5;lildude;phpSmug; 14; 2; stale
+1;lildude;phpSmug; 14; 2; stale
+2;lildude;phpSmug; 14; 2; stale
+1;lildude;phpSmug; 14; 2; stale
+0;framework7io;Framework7; 60; 7; wontfix
+6;framework7io;Framework7; 90; 7; wontfix
+7;framework7io;Framework7; 90; 14; wontfix
+4;framework7io;Framework7; 90; 14; wontfix
+8;framework7io;Framework7; 90; 14; wontfix
+6;wix;react-native-navigation; 45; 7;
+9;wix;react-native-navigation;;;
+5;obiba;jennite; 60; 7; wontfix
+9;pathawks;Jekyll-CMark; 60; 7; wontfix
+6;RasaHQ;rasa_core; 90; 7; stale
+6;RasaHQ;rasa_core; 90; 7; stale
+6;RasaHQ;rasa_core; 90; 7; stale
+0;RasaHQ;rasa_core; 90; 7; stale
+3;RasaHQ;rasa_core; 90; 7; stale
+3;RasaHQ;rasa_core; 90; 7; stale
+9;RasaHQ;rasa_core; 90; 7; stale
+0;stoelzle;pdfify-node; 30; 7; wontfix
+7;stoelzle;pdfify-node; 30; 7; wontfix
+9;codl;forget; 90; 7; stale
+5;codl;forget; 365; 7; stale
+2;cherrypy;cheroot; 60; 7; stale
+4;Laravel-Backpack;crud; 60; 14; stale
+0;Laravel-Backpack;crud; 60; 14; stale
+1;Laravel-Backpack;crud; 60; 14; stale
+1;Laravel-Backpack;crud; 60; 14; stale
+4;Laravel-Backpack;crud; 60; 14; stale
+4;Laravel-Backpack;crud; 60; 14; stale
+5;Laravel-Backpack;crud; 60; 14; stale
+4;Laravel-Backpack;crud; 60; 14; stale
+1;Laravel-Backpack;crud; 60; 14; stale
+9;express-labs;pure-react-carousel; 21; 7; wontfix
+4;express-labs;pure-react-carousel; 21; 7; wontfix
+5;express-labs;pure-react-carousel; 21; 7; wontfix
+1;martincostello;credit-card-splitter; 56; 7; wontfix
+9;martincostello;credit-card-splitter; 56; 7; wontfix
+2;xt0rted;Nancy.Validation.DataAnnotations.Extensions;;;
+0;standard;standard; 90; 7; stale
+3;standard;standard; 90; 7; stale
+2;standard;standard; 90; 7; stale
+3;coreos;clair; 60; 7; lifecycle
+5;coreos;clair; 60; 7; lifecycle
+4;obiba;mica2; 60; 7; wontfix
+8;obiba;mica2; 60; 7; wontfix
+6;kura;kura.io;;;
+9;zooniverse;Panoptes-Front-End; 120; 7; stale
+7;zooniverse;Panoptes-Front-End; 120; 7; stale
+1;zooniverse;Panoptes-Front-End; 120; 7; stale
+9;zooniverse;Panoptes-Front-End; 120; 7; stale
+8;zooniverse;Panoptes-Front-End; 120; 7; stale
+7;PlagueHO;cDFS; 14; 40; abandoned
+5;PlagueHO;cDFS; 14; 40; abandoned
+5;PlagueHO;cDFS; 14; 40; abandoned
+3;PlagueHO;cDFS; 14; 40; abandoned
+7;poooi;poi; 180; 14; stale
+1;poooi;poi; 180; 14; stale
+8;poooi;poi; 180; 14; stale
+4;SlvrEagle23;AzuraCast; 60; 14; wontfix
+0;SlvrEagle23;AzuraCast; 60; 14; wontfix
+0;meetfranz;franz; 60; 7; wontfix
+9;meetfranz;franz; 365;;
+0;meetfranz;franz; 365;;
+3;meetfranz;franz; 365;;
+5;meetfranz;franz; 365;;
+8;facebookincubator;create-react-app; 60; 7; stale
+2;facebookincubator;create-react-app; 30; 5; stale
+4;facebookincubator;create-react-app; 30; 5; stale
+0;facebookincubator;create-react-app; 30; 5; stale
+3;exercism;python; 21; 7; on
+1;exercism;python; 60; 7; on
+2;exercism;python; 21; 7; abandoned
+1;exercism;python; 21; 7; abandoned
+2;feathersjs;feathers-batch; 84; 7; wontfix
+4;naver;pinpoint; 30; 20; stale
+6;auth0-extensions;auth0-authentication-api-debugger-extension;;;
+8;probot;probot; 60; 7; wontfix
+4;probot;probot; 60; 7; wontfix
+0;probot;probot; 60; 7; wontfix
+5;cjohansen;Sinon.JS; 60; 7; wontfix
+4;cjohansen;Sinon.JS; 60; 7; stale
+9;poldracklab;fmriprep; 100; 7; stale
+8;poldracklab;fmriprep; 100; 7; stale
+9;poldracklab;fmriprep; 300; 20; stale
+3;poldracklab;fmriprep; 100; 7; stale
+3;poldracklab;fmriprep; 100; 7; stale
+7;poldracklab;fmriprep; 300; 20; stale
+9;poldracklab;fmriprep; 300; 20; stale
+1;estahn;phpunit-json-assertions; 60; 7; wontfix
+2;spotify;docker-client; 60; 7; stale
+7;spotify;docker-client; 60; 7; stale
+0;feathersjs;feathers-localstorage; 84; 7; wontfix
+5;PowerShell;xChrome; 14; 40; abandoned
+4;martincostello;adventofcode; 56; 7; wontfix
+1;martincostello;adventofcode; 56; 7; wontfix
+5;Linuxbrew;homebrew-core; 21; 7; stale
+1;Linuxbrew;homebrew-core; 21; 7; stale
+9;gho-ramos;GRTextField; 60; 7; wontfix
+6;gho-ramos;GRTextField; 60; 7; wontfix
+6;gho-ramos;GRTextField; 60; 7; stale
+0;gho-ramos;GRTextField; 60; 7; stale
+3;gho-ramos;GRTextField; 30; 7; stale
+4;gho-ramos;GRTextField; 30; 7; stale
+3;agrc;gis.utah.gov; 60; 7; wontfix
+5;bkimminich;juice-shop; 84; 14; wontfix
+6;bkimminich;juice-shop; 84; 14; wontfix
+9;bkimminich;juice-shop; 84; 14; wontfix
+7;bkimminich;juice-shop; 84; 14; wontfix
+3;bkimminich;juice-shop; 84; 14; wontfix
+5;bkimminich;juice-shop; 84; 14; wontfix
+6;bkimminich;juice-shop; 84; 14; wontfix
+0;bkimminich;juice-shop; 84; 14; wontfix
+6;bkimminich;juice-shop; 84; 14; wontfix
+5;bkimminich;juice-shop; 84; 14; wontfix
+7;bkimminich;juice-shop; 84; 14; wontfix
+4;bkimminich;juice-shop; 84; 14; stale
+1;bkimminich;juice-shop; 84; 14; stale
+7;bkimminich;juice-shop; 84; 14; stale
+8;bkimminich;juice-shop; 84; 14; stale
+7;bkimminich;juice-shop; 84; 14; stale
+8;mizzy;serverspec; 60; 7; wontfix
+1;mizzy;specinfra; 60; 7; wontfix
+5;exercism;xelisp;;;
+9;kura;pelican_youtube;;;
+5;hypothesis;bouncer;;; stale
+5;hypothesis;bouncer;;; stale
+5;yakyak;yakyak; 60; 60; inactive
+9;snipe;snipe-it; 60; 7; wontfix
+6;snipe;snipe-it; 60; 7; wontfix
+4;snipe;snipe-it; 60; 7; wontfix
+3;snipe;snipe-it; 60; 7; wontfix
+9;snipe;snipe-it; 60; 7; stale
+3;snipe;snipe-it; 60; 7; stale
+2;snipe;snipe-it; 60; 7; stale
+9;snipe;snipe-it; 60; 7; stale
+7;snipe;snipe-it; 60; 7; stale
+6;snipe;snipe-it; 60; 7; stale
+3;snipe;snipe-it; 60; 7; stale
+2;snipe;snipe-it; 60; 7; stale
+7;manddar;manddar.github.io; 30; 7;
+1;manddar;manddar.github.io; 30; 7;
+3;manddar;manddar.github.io; 30; 7;
+8;manddar;manddar.github.io; 30; 7;
+7;thomasjo;atom-latex; 30; 7; stale
+2;Homebrew;patches; 21; 7; stale
+7;luin;ioredis; 30; 7; wontfix
+9;caarlos0;antibody; 60; 7; wontfix
+7;krystalcampioni;vue-hotel-datepicker; 30; 7; stale
+5;yamitcar;atc-onlinesubmin201718; 60; 7; wontfix
+1;madappstechnologies;country-picker-android; 60; 7; stale
+0;madappstechnologies;country-picker-android; 60; 7; stale
+2;madappstechnologies;country-picker-android; 60; 7; stale
+7;jlnrd;jlnrd.github.io; 30; 7;
+1;jlnrd;jlnrd.github.io; 30; 7;
+1;jlnrd;jlnrd.github.io; 30; 7;
+5;jlnrd;jlnrd.github.io; 30; 7;
+0;anbox;anbox; 120; 7; decaying
+4;anbox;anbox; 120; 7; decaying
+9;anbox;anbox; 120; 7; decaying
+2;anbox;anbox; 120; 7; decaying
+9;anbox;anbox; 120; 7; decaying
+6;Mozharovsky;CVCalendar; 45; 7; Stale
+0;PowerShell;xCertificate; 14; 40; abandoned
+8;sequelize;sequelize; 60; 7; stale
+8;sequelize;sequelize; 60; 7; stale
+4;sequelize;sequelize; 30; 7; stale
+2;sequelize;sequelize; 100; 7; stale
+7;sequelize;sequelize; 90; 7; stale
+4;sequelize;sequelize; 90; 7; stale
+5;sequelize;sequelize; 90; 7; stale
+9;frappe;erpnext; 7; 2; inactive
+7;frappe;erpnext; 7; 2; inactive
+8;frappe;erpnext; 10; 7; inactive
+9;frappe;erpnext; 30; 7; inactive
+2;frappe;erpnext; 30; 7; inactive
+6;frappe;erpnext; 30; 7; inactive
+9;frappe;erpnext; 30; 7; inactive
+3;frappe;erpnext; 30; 7; inactive
+4;frappe;erpnext; 30; 7; inactive
+5;frappe;erpnext; 30; 7; inactive
+5;frappe;erpnext; 30; 7; inactive
+1;frappe;erpnext; 30; 7; inactive
+2;frappe;erpnext; 30; 7; inactive
+3;frappe;erpnext; 30; 7; inactive
+7;frappe;erpnext; 30; 7; inactive
+2;frappe;erpnext; 30; 7; inactive
+2;frappe;erpnext; 30; 7; inactive
+9;frappe;erpnext; 30; 7; inactive
+6;frappe;erpnext; 30; 7; inactive
+7;frappe;erpnext; 30; 7; inactive
+6;frappe;erpnext; 30; 7; inactive
+5;frappe;erpnext; 30; 7; inactive
+7;frappe;erpnext; 30; 7; inactive
+5;frappe;erpnext; 30; 7; inactive
+5;apache;thrift; 60; 7; wontfix
+7;conjure-up;conjure-up; 120; 7; wontfix
+4;conjure-up;conjure-up; 120; 7; wontfix
+8;conjure-up;conjure-up; 120; 7; wontfix
+2;stoe;alfred-github-tools; 30; 7; wontfix
+1;stoe;alfred-github-tools; 30; 7; wontfix
+7;phenyard;phenyard.github.io; 30; 7;
+7;phenyard;phenyard.github.io; 30; 7;
+9;phenyard;phenyard.github.io; 30; 7;
+3;phenyard;phenyard.github.io; 30; 7;
+9;phenyard;phenyard.github.io; 30; 7;
+9;phenyard;phenyard.github.io; 30; 7;
+0;phenyard;phenyard.github.io; 30; 7;
+4;phenyard;phenyard.github.io; 30; 7;
+1;phenyard;phenyard.github.io; 30; 7;
+1;phenyard;phenyard.github.io; 30; 7;
+6;phenyard;phenyard.github.io; 30; 7;
+0;phenyard;phenyard.github.io; 30; 7;
+2;Catel;Catel.Benchmarks; 60; 7; wontfix
+7;bkeepers;dotenv;;; wontfix
+1;bkeepers;dotenv; 60; 7; wontfix
+0;jpadilla;ember-simple-auth-token; 60; 7; wontfix
+1;jpadilla;ember-simple-auth-token; 60; 7; wontfix
+4;benbalter;github-records-archiver; 60; 7; wontfix
+8;benbalter;github-records-archiver; 60; 7; wontfix
+0;RxSwiftCommunity;RxOptional; 60; 7; stale
+7;hexojs;hexo; 60; 7;
+2;hexojs;hexo; 60; 7;
+7;hexojs;hexo; 60; 7; wontfix
+9;hexojs;hexo; 60; 7; wontfix
+3;hexojs;hexo; 60; 7; stale
+6;hexojs;hexo; 60; 7; stale
+7;cucumber;cucumber; 60; 7; Stale
+8;karoldvl;EARS; 60; 7; stale
+9;karoldvl;EARS; 60; 7; stale
+1;wordpress-mobile;WordPress-Android; 365;;
+5;wordpress-mobile;WordPress-Android; 365;;
+5;wordpress-mobile;WordPress-Android; 365;;
+0;wordpress-mobile;WordPress-Android; 365;;
+2;wordpress-mobile;WordPress-Android; 365;;
+7;wordpress-mobile;WordPress-Android; 365;;
+4;wordpress-mobile;WordPress-Android; 365;;
+4;wordpress-mobile;WordPress-Android; 365;;
+1;wordpress-mobile;WordPress-Android; 365;;
+3;wordpress-mobile;WordPress-Android; 365;;
+3;wordpress-mobile;WordPress-Android; 365;;
+2;wordpress-mobile;WordPress-Android; 365;;
+7;wordpress-mobile;WordPress-Android; 365;;
+6;wordpress-mobile;WordPress-Android; 365;;
+6;wordpress-mobile;WordPress-Android; 365;;
+8;wordpress-mobile;WordPress-Android; 365;;
+4;wordpress-mobile;WordPress-Android; 365;;
+9;AzuraCast;AzuraCast; 60; 14; wontfix
+3;AzuraCast;AzuraCast; 60; 14; wontfix
+3;exercism;xpony;;;
+2;exercism;xpony; 60; 7; wontfix
+6;jaredpalmer;formik; 60; 7; stale
+9;jaredpalmer;formik; 60; 7; stale
+3;jaredpalmer;formik; 60; 3600; stale
+7;typo3-themes;theme_bootstrap_restart;;;
+4;opsdroid;opsdroid; 60; 7; stale
+1;opsdroid;opsdroid; 30; 7; stale
+7;coredns;coredns; 60; 7; wontfix
+4;coredns;coredns; 60; 7; wontfix
+8;coredns;coredns; 100; 21; wontfix
+5;coredns;coredns; 100; 21; wontfix
+9;hubotio;hubot; 90; 7; stale
+8;hubotio;hubot; 90; 7; stale
+5;hubotio;hubot; 90; 7; stale
+6;kadirahq;react-storybook; 45; 45; inactive
+4;kadirahq;react-storybook; 55; 5; inactive
+8;kadirahq;react-storybook; 85; 5; inactive
+5;kadirahq;react-storybook; 85; 5; inactive
+8;kadirahq;react-storybook; 85; 5; inactive
+5;kadirahq;react-storybook; 85; 5; inactive
+7;kadirahq;react-storybook; 85; 5; inactive
+3;kadirahq;react-storybook; 85; 5; inactive
+2;kadirahq;react-storybook; 85; 5; inactive
+6;kadirahq;react-storybook; 85; 5; inactive
+9;kadirahq;react-storybook; 85; 5; inactive
+0;kadirahq;react-storybook; 85; 5; inactive
+5;kadirahq;react-storybook; 88; 2; inactive
+2;kadirahq;react-storybook; 88; 2; inactive
+7;kadirahq;react-storybook; 45; 15; inactive
+3;kadirahq;react-storybook; 45; 15; inactive
+2;kadirahq;react-storybook; 45; 15; inactive
+9;kadirahq;react-storybook; 45; 15; inactive
+7;kadirahq;react-storybook; 45; 15; inactive
+2;kadirahq;react-storybook; 45; 15; inactive
+4;kadirahq;react-storybook; 45; 15; inactive
+1;kadirahq;react-storybook; 45; 15; inactive
+6;kadirahq;react-storybook; 45; 15; inactive
+5;kadirahq;react-storybook; 45; 15; inactive
+6;kadirahq;react-storybook; 45; 15; inactive
+7;kadirahq;react-storybook; 45; 15; inactive
+4;kadirahq;react-storybook; 45; 15; inactive
+2;kadirahq;react-storybook; 45; 15; inactive
+1;kadirahq;react-storybook; 45; 15; inactive
+7;kadirahq;react-storybook; 45; 15; inactive
+5;kadirahq;react-storybook; 45; 15; inactive
+0;kadirahq;react-storybook; 45; 15; inactive
+8;kadirahq;react-storybook; 45; 15; inactive
+0;kadirahq;react-storybook; 45; 15; inactive
+1;kadirahq;react-storybook; 45; 15; inactive
+7;kadirahq;react-storybook; 45; 15; inactive
+2;kadirahq;react-storybook; 45; 15; inactive
+1;kadirahq;react-storybook; 45; 15; inactive
+0;kadirahq;react-storybook; 45; 15; inactive
+5;kadirahq;react-storybook; 45; 15; inactive
+4;kadirahq;react-storybook; 45; 15; inactive
+5;kadirahq;react-storybook; 45; 15; inactive
+4;kadirahq;react-storybook; 45; 15; inactive
+2;kadirahq;react-storybook; 45; 15; inactive
+0;kadirahq;react-storybook; 45; 15; inactive
+2;kadirahq;react-storybook; 45; 15; inactive
+5;kadirahq;react-storybook; 45; 15; inactive
+7;kadirahq;react-storybook; 45; 15; inactive
+6;kadirahq;react-storybook; 45; 15; inactive
+2;kadirahq;react-storybook; 21; 30; inactive
+6;kadirahq;react-storybook; 21; 30; inactive
+4;kadirahq;react-storybook; 21; 30; inactive
+1;kadirahq;react-storybook; 21; 30; inactive
+8;kadirahq;react-storybook; 21; 30; inactive
+0;kadirahq;react-storybook; 21; 30; inactive
+4;kadirahq;react-storybook; 21; 30; inactive
+4;kadirahq;react-storybook; 21; 30; inactive
+3;kadirahq;react-storybook; 21; 30; inactive
+4;kadirahq;react-storybook; 21; 30; inactive
+0;kadirahq;react-storybook; 21; 30; inactive
+3;kadirahq;react-storybook; 21; 30; inactive
+8;kadirahq;react-storybook; 21; 30; inactive
+8;kadirahq;react-storybook; 21; 30; inactive
+4;kadirahq;react-storybook; 21; 30; inactive
+5;kadirahq;react-storybook; 21; 30; inactive
+1;kadirahq;react-storybook; 21; 30; inactive
+2;kadirahq;react-storybook; 21; 30; inactive
+3;kadirahq;react-storybook; 21; 30; inactive
+5;kadirahq;react-storybook; 21; 30; inactive
+3;kadirahq;react-storybook; 21; 30; inactive
+7;kadirahq;react-storybook; 21; 30; inactive
+5;kadirahq;react-storybook; 21; 30; inactive
+1;jdorfman;Awesome-JSON-Datasets; 60; 7; wontfix
+3;jdorfman;Awesome-JSON-Datasets;;;
+6;kura;pelican-githubprojects;;;
+8;ericmjl;Network-Analysis-Made-Simple; 30; 3; wontfix
+7;ericmjl;Network-Analysis-Made-Simple; 30; 3; wontfix
+2;RakanNimer;react-google-charts; 60; 7; wontfix
+0;RakanNimer;react-google-charts; 60; 2; wontfix
+2;cucumber;aruba; 60; 7; status
+2;cucumber;aruba; 60; 7; status
+8;cucumber;aruba; 60; 7; stale
+5;ssbc;patchcore; 60; 7; stale
+1;fogbeam;cas_mirror; 14; 7; Pending
+0;fogbeam;cas_mirror; 14; 7; Pending
+0;fogbeam;cas_mirror; 14; 7; Pending
+6;fogbeam;cas_mirror; 7; 7; Pending
+5;fogbeam;cas_mirror; 7; 7; Pending
+4;fogbeam;cas_mirror; 7; 7; Pending
+8;fogbeam;cas_mirror; 5; 5; Pending
+2;benbalter;gman; 60; 7; wontfix
+6;benbalter;gman; 60; 7; wontfix
+8;benbalter;gman; 60; 7; wontfix
+1;benbalter;gman; 60; 7; wontfix
+4;kc10kevin;betaflight; 30; 7; Inactive
+4;kc10kevin;betaflight; 30; 7; Inactive
+2;kc10kevin;betaflight; 30; 7; Inactive
+2;kc10kevin;betaflight; 30; 7; Inactive
+0;kc10kevin;betaflight; 30; 7; Inactive
+9;nfarina;homebridge; 180; 14; stale
+1;nfarina;homebridge; 180; 14; stale
+8;pmviva;follow_system; 240; 7; wontfix
+5;electron;electron; 45; 7; stale
+9;electron;electron; 45; 7; stale
+6;electron;electron; 45; 7; stale
+9;viode;viode; 90; 9; stale
+8;costanzo;costanzo.github.io; 30; 7;
+1;costanzo;costanzo.github.io; 30; 7;
+2;costanzo;costanzo.github.io; 30; 7;
+2;costanzo;costanzo.github.io; 30; 7;
+9;costanzo;costanzo.github.io; 30; 7;
+7;costanzo;costanzo.github.io; 30; 7;
+3;costanzo;costanzo.github.io; 30; 7;
+1;costanzo;costanzo.github.io; 30; 7;
+5;costanzo;costanzo.github.io; 30; 7;
+2;costanzo;costanzo.github.io; 30; 7;
+4;costanzo;costanzo.github.io; 30; 7;
+5;costanzo;costanzo.github.io; 30; 7;
+8;costanzo;costanzo.github.io; 30; 7;
+6;thedaviddias;Front-End-Checklist; 60; 15; wontfix
+7;thedaviddias;Front-End-Checklist; 60; 15; wontfix
+1;obiba;magma; 60; 7; wontfix
+7;obiba;magma; 60; 7; wontfix
+2;walbarello;walbarello.github.io; 60; 7; wontfix
+9;pages-themes;cayman; 60; 7; wontfix
+2;hypothesis;browser-extension;;; stale
+8;hypothesis;browser-extension;;; stale
+1;vintagesucks;caddy-script; 60; 7; wontfix
+1;feross;webtorrent; 120; 7;
+9;feross;webtorrent; 120; 7;
+1;feross;webtorrent; 120; 7;
+0;feross;webtorrent; 120; 7; stale
+7;feross;webtorrent; 120; 7; wontfix
+9;feross;webtorrent; 120; 7; wontfix
+9;feross;webtorrent; 120; 7; stale
+8;feross;webtorrent; 120; 7; stale
+2;feross;webtorrent; 90; 7; stale
+9;feross;webtorrent; 90; 7; stale
+7;feross;webtorrent; 90; 7; stale
+3;mmistakes;jekyll-theme-basically-basic; 30; 7;
+3;mmistakes;jekyll-theme-basically-basic; 30; 7;
+4;mmistakes;jekyll-theme-basically-basic; 30; 7;
+3;mmistakes;jekyll-theme-basically-basic; 30; 7;
+1;LinioIT;util; 3;; stale
+7;yeriomin;YalpStore; 60; 7; wontfix
+8;yeriomin;YalpStore; 30; 7; stale
+3;Aceheliflyer;Ace-Bot; 14; 7;
+6;Aceheliflyer;Ace-Bot; 14; 7;
+8;PowerShell;xSCDPM; 14; 40; abandoned
+7;xia2;workflows; 180; 14; wontfix
+8;CCob;bittrex4j; 30; 7; wontfix
+1;zosconnect;zosconnect-node; 60; 7; wontfix
+3;kura;blackhole;;;
+9;kura;blackhole;;;
+3;mcavage;node-restify; 60; 14; Stale
+2;rundeck;rundeck-cli; 60; 7; wontfix
+9;PowerShell;xMySql; 14; 40; abandoned
+2;lyft;envoy; 7; 7; stale
+3;lyft;envoy; 7; 7; stale
+0;lyft;envoy; 7; 7; stale
+4;lyft;envoy; 7; 7; stale
+4;xt0rted;Raygun.Owin;;;
+8;DataDog;integrations-core; 60; 1095; stale
+4;DataDog;integrations-core; 60; 1095; stale
+8;DataDog;integrations-core; 60; 1095; stale
+6;DataDog;integrations-core; 60; 1095; stale
+0;DataDog;integrations-core; 60; 1095; stale
+5;DataDog;integrations-core; 60; 1095; stale
+6;DataDog;integrations-core; 60; 1095; stale
+2;DataDog;integrations-core; 60; 1095; stale
+4;DataDog;integrations-core; 60; 1095; stale
+2;DataDog;integrations-core; 60; 1095; stale
+9;DataDog;integrations-core; 60; 1095; stale
+4;DataDog;integrations-core; 60; 1095; stale
+7;DataDog;integrations-core; 60; 1095; stale
+8;DataDog;integrations-core; 60; 1095; stale
+7;DataDog;integrations-core; 60; 1095; stale
+0;DataDog;integrations-core; 60; 1095; stale
+3;DataDog;integrations-core; 60; 1095; stale
+7;DataDog;integrations-core; 30; 1095; stale
+2;DataDog;integrations-core; 30; 1095; stale
+8;fog;fog; 60; 7; wontfix
+7;jcwalker;xSecedit; 14; 40; abandoned
+8;jcwalker;xSecedit; 14; 40; abandoned
+2;jcwalker;xSecedit; 14; 40; abandoned
+7;jcwalker;xSecedit; 14; 40; abandoned
+6;brpc;brpc; 60; 7; wontfix
+2;brpc;brpc; 60; 7; wontfix
+8;brpc;brpc; 60; 7; wontfix
+8;brpc;brpc; 60; 7; wontfix
+5;brpc;brpc; 60; 7; wontfix
+2;brpc;brpc; 60; 7; wontfix
+5;brpc;brpc; 30; 5; wontfix
+9;brpc;brpc; 30; 5; wontfix
+2;brpc;brpc; 30; 5; wontfix
+1;euvl;vue-js-modal; 21; 7; wontfix
+3;euvl;vue-js-modal; 21; 7; wontfix
+6;CVCalendar;CVCalendar; 45; 7; Stale
+9;NARKOZ;gitlab; 90; 10; stale
+4;NARKOZ;gitlab; 90; 10; stale
+0;PowerShell;xDscDiagnostics; 14; 40; abandoned
+8;andris9;Nodemailer; 60; 7; wontfix
+7;jasonmit;ember-intl; 60; 7; stale
+4;tldr-pages;tldr; 15; 30; waiting
+9;mweststrate;mobx-state-tree; 10; 4; stale
+2;mweststrate;mobx-state-tree; 10; 4; stale
+4;mweststrate;mobx-state-tree; 10; 4; stale
+8;mweststrate;mobx-state-tree; 10; 4; stale
+1;vkbansal;react-contextmenu; 60; 7; wontfix
+9;LinioIT;cache; 3;; stale
+5;exercism;xelm;;;
+7;exercism;xelm;;;
+9;pmviva;like_system; 240; 7; wontfix
+2;sanex3339;javascript-obfuscator; 10; 7; need
+1;asnaedae;asnaedae.github.io; 30; 7;
+2;asnaedae;asnaedae.github.io; 30; 7;
+7;asnaedae;asnaedae.github.io; 30; 7;
+5;asnaedae;asnaedae.github.io; 30; 7;
+2;webtorrent;webtorrent-desktop; 90; 7; stale
+3;webtorrent;webtorrent-desktop; 90; 7; stale
+4;webtorrent;webtorrent-desktop; 90; 7; stale
+6;webtorrent;webtorrent-desktop; 90; 7; stale
+5;benbalter;word-to-markdown; 60; 7; wontfix
+2;benbalter;word-to-markdown; 60; 7; wontfix
+3;benbalter;word-to-markdown; 60; 7; wontfix
+4;cuiyanwen;cuiyanwen.github.io; 60; 7; wontfix
+9;s0ph1e;node-website-scraper; 60; 7; wontfix
+5;phpmyadmin;motranslator; 60; 7; wontfix
+1;WeblateOrg;docker; 60; 14; wontfix
+0;frappe;frappe; 7; 2; inactive
+3;frappe;frappe; 10; 7; inactive
+8;frappe;frappe; 7; 2; inactive
+7;frappe;frappe; 10; 7; inactive
+7;frappe;frappe; 30; 7; inactive
+1;frappe;frappe; 30; 7; inactive
+2;frappe;frappe; 30; 7; inactive
+2;frappe;frappe; 30; 7; inactive
+8;deanoemcke;thegreatsuspender; 180; 7; wontfix
+5;deanoemcke;thegreatsuspender; 180; 30; stale
+5;deanoemcke;thegreatsuspender; 180; 30; stale
+2;deanoemcke;thegreatsuspender; 180; 30; stale
+6;deanoemcke;thegreatsuspender; 180; 30; stale
+1;deanoemcke;thegreatsuspender; 180; 30; stale
+5;deanoemcke;thegreatsuspender; 180; 30; stale
+8;deanoemcke;thegreatsuspender; 180; 30; stale
+5;exercism;xecmascript;;;
+2;exercism;xecmascript;;;
+0;stoe;atom-markdown-wrapper; 30; 7; wontfix
+6;ShareX;CustomUploaders; 180; 7; Stale
+7;Fody;LoadAssembliesOnStartup; 60; 7; wontfix
+5;robmarkoski;robmarkoski.github.io; 30; 7;
+3;robmarkoski;robmarkoski.github.io; 30; 7;
+8;robmarkoski;robmarkoski.github.io; 30; 7;
+7;robmarkoski;robmarkoski.github.io; 30; 7;
+0;robmarkoski;robmarkoski.github.io; 30; 7;
+6;robmarkoski;robmarkoski.github.io; 30; 7;
+0;robmarkoski;robmarkoski.github.io; 30; 7;
+1;robmarkoski;robmarkoski.github.io; 30; 7;
+6;robmarkoski;robmarkoski.github.io; 30; 7;
+9;robmarkoski;robmarkoski.github.io; 30; 7;
+0;robmarkoski;robmarkoski.github.io; 30; 7;
+2;robmarkoski;robmarkoski.github.io; 30; 7;
+4;robmarkoski;robmarkoski.github.io; 30; 7;
+3;robmarkoski;robmarkoski.github.io; 30; 7;
+7;robmarkoski;robmarkoski.github.io; 30; 7;
+6;karoldvl;echonet; 60; 7; stale
+8;testcontainers;testcontainers-java; 90; 14; stale
+1;PlagueHO;cWSMan; 14; 40; abandoned
+8;PlagueHO;cWSMan; 14; 40; abandoned
+2;betaflight;betaflight-tx-lua-scripts; 30; 7; Inactive
+3;betaflight;betaflight-tx-lua-scripts; 30; 7; Inactive
+9;ptmt;react-native-desktop; 60; 7; Stale
+6;ptmt;react-native-desktop; 60; 7; Stale
+3;ptmt;react-native-desktop; 60; 7; Stale
+4;ATLauncher;style-guide; 60; 7; wontfix
+9;ssbc;ssb-blobs; 60; 7; stale
+8;viddo;atom-textual-velocity; 60; 7; wontfix
+1;viddo;atom-textual-velocity;;;
+2;yahoo;ember-intl; 60; 7; stale
+7;hamidfzm;Flask-HTMLmin; 30; 7; wontfix
+9;hamidfzm;Flask-HTMLmin; 30; 3; wontfix
+8;giulio92;GLTableCollectionView; 60; 7; closed
+3;giulio92;GLTableCollectionView; 60; 7; standby
+5;CHEF-KOCH;NoScript-Whitelist; 30; 7;
+0;akiran;react-slick; 360; 1; stale
+8;akiran;react-slick; 180; 7; stale
+6;akiran;react-slick; 360; 7; stale
+7;erickrdch;grunt-string-replace; 60; 7; wontfix
+9;erickrdch;grunt-string-replace; 60; 7; wontfix
+2;ssbc;ssb-config; 60; 7; stale
+3;goreleaser;releaser; 60; 7; wontfix
+6;goreleaser;releaser; 60; 7; wontfix
+4;goreleaser;releaser; 14; 7; wontfix
+4;LinioIT;tortilla; 3;; stale
+5;pouchdb;pouchdb; 60; 7; wontfix
+6;PowerShell;xBitlocker; 14; 40; abandoned
+5;Misterhex;Misterhex.github.io; 30; 7;
+9;Misterhex;Misterhex.github.io; 30; 7;
+9;Misterhex;Misterhex.github.io; 30; 7;
+6;Misterhex;Misterhex.github.io; 30; 7;
+7;Misterhex;Misterhex.github.io; 30; 7;
+5;Misterhex;Misterhex.github.io; 30; 7;
+3;Misterhex;Misterhex.github.io; 30; 7;
+2;Misterhex;Misterhex.github.io; 30; 7;
+7;clappr;clappr; 60; 7; stale
+7;clappr;clappr; 60; 7; stale
+0;feathersjs;feathers-sync; 84; 7; wontfix
+6;picocms;Pico; 7; 2;
+4;picocms;Pico; 7; 2;
+2;LinioIT;rule-engine; 3;; stale
+6;McJty;XNet; 100000; 14;
+7;apereo;apereo.github.io; 14; 7; Pending
+7;apereo;apereo.github.io; 7; 7; Pending
+8;apereo;apereo.github.io; 7; 7; Pending
+9;apereo;apereo.github.io; 7; 7; Pending
+6;exercism;xperl6;;;
+7;exercism;xperl6;;;
+5;exercism;xperl6; 180; 7; stale
+7;exercism;xperl6; 180; 7; stale
+3;DiamondLightSource;python-workflows; 180; 14; wontfix
+7;mochajs;mocha; 120; 14; stale
+3;mochajs;mocha; 120; 14; stale
+8;mochajs;mocha; 120; 14; stale
+2;mochajs;mocha; 120; 14; stale
+9;mochajs;mocha; 120; 14; stale
+0;mochajs;mocha; 120; 14; stale
+7;nlohmann;json; 30; 7;
+2;SkyHarp;LegendOfMountainSea; 30; 3; wontfix
+4;SkyHarp;LegendOfMountainSea; 30; 3; wontfix
+8;SkyHarp;LegendOfMountainSea; 30; 3; unclear
+1;github;pages-gem; 60; 7; wontfix
+3;github;pages-gem; 60; 7; wontfix
+7;github;pages-gem; 60; 7; wontfix
+8;pages-themes;midnight; 60; 7; wontfix
+8;webdriverio;webdriverio; 90; 14; wontfix
+5;WormieCorp;Localization.AspNetCore.TagHelpers; 60; 7; Pending
+9;WormieCorp;Localization.AspNetCore.TagHelpers; 60; 7; Pending
+4;phille97;phille97.github.io; 30; 7;
+0;thomaspark;bootswatch; 60; 7; wontfix
+0;merencia;node-cron; 60; 7; wontfix
+4;merencia;node-cron; 60; 7; wontfix
+5;merencia;node-cron; 60; 7; wontfix
+4;merencia;node-cron; 60; 7; wontfix
+8;tony;libtmux; 60; 7; stale
+8;bolt;bolt; 60; 7; Stale
+3;bolt;bolt; 60; 7; Stale
+9;bolt;bolt; 60; 7; Stale
+8;bolt;bolt; 60; 7; Stale
+7;bolt;bolt; 60; 7; stale
+6;bolt;bolt; 60; 7; stale
+8;bolt;bolt; 60; 7; stale
+2;bolt;bolt; 60; 7; stale
+6;bolt;bolt; 60; 7; stale
+7;less;less.js; 120; 14; stale
+3;less;less.js; 120; 14; stale
+3;less;less.js; 120; 14; stale
+7;less;less.js; 120; 14; stale
+5;less;less.js; 120; 14; stale
+1;less;less.js; 120; 30; stale
+4;less;less.js; 120; 30; stale
+8;justwatchcom;gopass; 90; 30; wontfix
+3;cmusatyalab;openface; 60; 7; stale
+6;nijel;weblate-docker; 60; 14; wontfix
+3;techfort;LokiJS; 60; 7; wontfix
+9;CHEF-KOCH;ProjectX; 30; 7;
+3;indrekots;indrekots.github.io; 30; 7;
+5;indrekots;indrekots.github.io; 30; 7;
+5;indrekots;indrekots.github.io; 30; 7;
+2;ssbc;ssb-markdown; 60; 7; stale
+8;GeoDienstenCentrum;closure-compiler-maven-plugin; 60; 14; wontfix
+5;rs;SDWebImage; 30; 7; stale
+5;rs;SDWebImage; 30; 7; stale
+4;rs;SDWebImage; 30; 7; stale
+4;csirtgadgets;bearded-avenger-sdk-py; 45; 7; wontfix
+5;ashfurrow;Moya; 60; 14;
+1;ashfurrow;Moya; 60; 14;
+2;ashfurrow;Moya; 60; 14;
+5;ashfurrow;Moya; 60; 14;
+4;ashfurrow;Moya; 45; 14;
+6;ashfurrow;Moya; 45; 14;
+3;ashfurrow;Moya; 45; 14;
+3;ashfurrow;Moya; 45; 14;
+0;ashfurrow;Moya; 45; 14;
+2;ashfurrow;Moya; 45; 14;
+1;ashfurrow;Moya; 45; 14;
+4;ashfurrow;Moya; 45; 14;
+7;ashfurrow;Moya; 45; 14;
+9;ashfurrow;Moya; 45; 14;
+0;ashfurrow;Moya; 45; 14;
+9;ashfurrow;Moya; 45; 14;
+0;ashfurrow;Moya; 45; 14; no
+3;ashfurrow;Moya; 45; 14; no
+6;ashfurrow;Moya; 45; 14; no
+8;ashfurrow;Moya; 45; 14; stale
+4;ashfurrow;Moya; 45; 14; stale
+6;ashfurrow;Moya; 45; 14; stale
+2;ashfurrow;Moya; 30; 7; stale
+0;ashfurrow;Moya; 30; 7; stale
+0;ashfurrow;Moya; 14; 7; stale
+1;ashfurrow;Moya; 14; 7; stale
+2;ashfurrow;Moya; 14; 7; stale
+3;ashfurrow;Moya; 14; 7; stale
+4;ashfurrow;Moya; 14; 7; stale
+5;ashfurrow;Moya; 14; 7; stale
+5;ashfurrow;Moya; 14; 7; stale
+1;cleanflight;cleanflight-configurator; 30; 7; Inactive
+9;cleanflight;cleanflight-configurator; 30; 7; Inactive
+3;cleanflight;cleanflight-configurator; 30; 7; Inactive
+7;cleanflight;cleanflight-configurator; 30; 7; Inactive
+7;okonet;react-dropzone; 60; 7; stale
+9;okonet;react-dropzone; 60; 7; stale
+1;okonet;react-dropzone; 60; 7; stale
+6;feross;webtorrent-app; 90; 7; stale
+0;feross;webtorrent-app; 90; 7; stale
+7;feross;webtorrent-app; 90; 7; stale
+3;feross;webtorrent-app; 90; 7; stale
+5;feathersjs;feathers-mubsub; 84; 7; wontfix
+3;unitejs;core; 30; 7; wontfix
+9;martincostello;browserstack-automate; 56; 7; wontfix
+7;martincostello;browserstack-automate; 56; 7; wontfix
+6;istio;istio; 7; 7; stale
+9;istio;istio; 14; 14; stale
+2;istio;istio; 14; 14; stale
+3;istio;istio; 14; 30; stale
+5;istio;istio; 14; 30; stale
+5;istio;istio; 14; 30; stale
+9;sinonjs;lolex; 60; 7; wontfix
+5;sinonjs;lolex; 60; 7; stale
+2;benbalter;jekyll-style-guide; 60; 7; wontfix
+5;benbalter;jekyll-style-guide; 60; 7; wontfix
+3;zulu-zsh;zulu; 60; 7; stale
+1;zulu-zsh;zulu; 365; 7; stale
+5;mtsmfm;railstest;;; wontfix
+2;mtsmfm;railstest;;; stale
+4;mtsmfm;railstest; 90; 7; stale
+0;mtsmfm;railstest; 90; 7; stale
+3;mtsmfm;railstest; 90; 7; stale
+7;cucumber;cucumber-jvm; 60; 7; stale
+0;cucumber;cucumber-jvm; 60; 7; stale
+9;cucumber;cucumber-jvm; 60; 7; stale
+0;cucumber;cucumber-jvm; 60; 7; Stale
+2;cucumber;cucumber-jvm; 300; 60; Stale
+3;nijel;weblate; 60; 7; wontfix
+3;nijel;weblate; 60; 7; wontfix
+7;nijel;weblate; 60; 14; wontfix
+4;nijel;weblate; 60; 14; wontfix
+9;nijel;weblate; 60; 14; wontfix
+3;nijel;weblate; 60; 14; wontfix
+3;voodootikigod;node-serialport; 60; 7; wontfix
+3;voodootikigod;node-serialport; 60; 7; stale
+2;Caged;d3-tip; 90; 7; wontfix
+6;Caged;d3-tip; 90; 7; wontfix
+4;Caged;d3-tip; 90; 7; stale
+7;emotion-js;emotion; 60; 7; stale
+9;stephentuso;welcome-android; 60; 7; stale
+2;bpicode;fritzctl; 180; 30; wontfix
+0;mattlewis92;angular2-calendar; 60; 7; wontfix
+3;equinusocio;vsc-material-theme; 60; 7; Wontfix
+9;equinusocio;vsc-material-theme; 60; 7; Wontfix
+4;ankane;chartkick; 7; 7; stale
+0;benbalter;wp-document-revisions; 60; 7; wontfix
+8;benbalter;wp-document-revisions; 60; 7; wontfix
+8;benbalter;wp-document-revisions; 60; 7; wontfix
+9;benbalter;wp-document-revisions; 60; 7; wontfix
+7;ssbc;muxrpc; 60; 7; stale
+0;pmviva;bookmark_system; 240; 7; wontfix
+9;PowerShell;xSQLServer; 14; 40; abandoned
+4;PowerShell;xSQLServer; 14; 40; abandoned
+3;PowerShell;xSQLServer; 14; 40; abandoned
+0;PowerShell;xSQLServer; 14; 40; stale
+2;PowerShell;xSQLServer; 14; 40; abandoned
+7;PowerShell;xSQLServer; 14; 40; abandoned
+6;PowerShell;xSQLServer; 14; 40; abandoned
+3;PowerShell;xSQLServer; 14; 40; abandoned
+0;PowerShell;xSQLServer; 14; 40; abandoned
+1;wso2;carbon-device-mgt; 10; 5; Resolution
+4;wso2;carbon-device-mgt; 10; 5; Resolution
+5;wso2;carbon-device-mgt; 10; 5; Resolution
+3;wso2;carbon-device-mgt; 10;; Resolution
+1;wso2;carbon-device-mgt; 10;; Resolution
+4;PlagueHO;cFSRM; 14; 40; abandoned
+3;PlagueHO;cFSRM; 14; 40; abandoned
+4;ceolter;angular-grid; 10; 4; wontfix
+4;ceolter;angular-grid; 10; 4; wontfix
+5;ceolter;angular-grid; 25; 5; wontfix
+2;ceolter;angular-grid; 25; 5; wontfix
+3;ceolter;angular-grid; 25; 5; wontfix
+8;WeblateOrg;weblate; 60; 7; wontfix
+4;WeblateOrg;weblate; 60; 7; wontfix
+2;WeblateOrg;weblate; 60; 14; wontfix
+9;WeblateOrg;weblate; 60; 14; wontfix
+5;WeblateOrg;weblate; 60; 14; wontfix
+2;WeblateOrg;weblate; 60; 14; wontfix
+4;restify;node-restify; 60; 14; Stale
+5;Homebrew;homebrew-command-not-found; 21; 7; stale
+8;Homebrew;homebrew-command-not-found; 21; 7; stale
+1;mattlewis92;angular-calendar; 60; 7; wontfix
+0;apis-is;apis; 60; 7; wontfix
+7;apis-is;apis; 60; 7; wontfix
+0;auth0-extensions;auth0-github-deploy;;;
+7;obiba;onyx-instruments; 60; 7; wontfix
+8;GetStream;Winds; 30; 1; wontfix
+6;GetStream;Winds; 30; 2; wontfix
+2;GetStream;Winds; 30; 2; wontfix
+9;GetStream;Winds; 30; 7; wontfix
+1;GetStream;Winds; 30; 7; wontfix
+5;LinioIT;spreadsheet-parser; 3;; stale
+8;luispadron;UICircularProgressRing; 30; 7; wontfix
+9;luispadron;UICircularProgressRing; 30; 7; stale
+1;luispadron;UICircularProgressRing; 30; 7; stale
+9;luispadron;UICircularProgressRing; 30; 7; stale
+6;nightwatchjs;nightwatch; 30; 7; stale
+3;nightwatchjs;nightwatch; 90; 7; stale
+0;nightwatchjs;nightwatch; 90; 7; stale
+2;nightwatchjs;nightwatch; 90; 7; stale
+3;VulcanJS;Vulcan; 60; 7; stale
+4;optonaut;ActiveLabel.swift; 180; 7; wontfix
+2;optonaut;ActiveLabel.swift; 180; 7; stale
+4;optonaut;ActiveLabel.swift; 180; 3; stale
+4;PowerShell;xWindowsUpdate; 14; 40; abandoned
+8;PowerShell;xSharePoint; 14; 40; abandoned
+2;PowerShell;xSharePoint; 14; 40; abandoned
+6;PowerShell;xSharePoint; 14; 40; abandoned
+3;PowerShell;xSharePoint; 14; 40; abandoned
+0;violetaria;violetaria.github.io; 30; 7;
+3;violetaria;violetaria.github.io; 30; 7;
+9;violetaria;violetaria.github.io; 30; 7;
+3;violetaria;violetaria.github.io; 30; 7;
+0;violetaria;violetaria.github.io; 30; 7;
+1;PowerShell;xDSCResourceDesigner; 14; 40; abandoned
+0;andreipitis;ASPCircleChart; 60; 14; stale
+1;andreipitis;ASPCircleChart; 60; 14; stale
+1;pages-themes;minimal; 60; 7; wontfix
+8;Semantic-Org;Semantic-UI; 90; 30; stale
+7;Semantic-Org;Semantic-UI; 90; 30; stale
+4;Semantic-Org;Semantic-UI; 90; 30; stale
+8;Semantic-Org;Semantic-UI; 90; 90; stale
+0;Semantic-Org;Semantic-UI; 90; 90; stale
+8;feathersjs;feathers-service-tests; 84; 7; wontfix
+7;miekg;coredns; 60; 7; wontfix
+8;miekg;coredns; 60; 7; wontfix
+5;miekg;coredns; 100; 21; wontfix
+8;miekg;coredns; 100; 21; wontfix
+3;ATLauncher;Backend-NEXT; 60; 7; wontfix
+7;ATLauncher;Backend-NEXT; 60; 7; wontfix
+4;aloisklink;aloisklink.github.io; 30; 7;
+7;aloisklink;aloisklink.github.io; 30; 7;
+4;aloisklink;aloisklink.github.io; 30; 7;
+8;aloisklink;aloisklink.github.io; 30; 7;
+8;aloisklink;aloisklink.github.io; 30; 7;
+8;aloisklink;aloisklink.github.io; 30; 7;
+9;aloisklink;aloisklink.github.io; 30; 7;
+8;aloisklink;aloisklink.github.io; 30; 7;
+2;aloisklink;aloisklink.github.io; 30; 7;
+4;aloisklink;aloisklink.github.io; 30; 7;
+2;aloisklink;aloisklink.github.io; 30; 7;
+4;aloisklink;aloisklink.github.io; 30; 7;
+9;aloisklink;aloisklink.github.io; 30; 7;
+0;aloisklink;aloisklink.github.io; 30; 7;
+6;goadesign;goa; 60; 7; wontfix
+8;goadesign;goa; 60; 7; wontfix
+9;vuematerial;vue-material; 30; 7; stale
+2;gatsbyjs;gatsby; 180; 15; stale
+5;gatsbyjs;gatsby; 180; 15; stale
+6;cerner;beadledom; 60; 14; stale
+3;feathersjs;feathers-mongoose; 84; 7; wontfix
+3;bkeepers;PRobot; 60; 7; wontfix
+9;bkeepers;PRobot; 60; 7; wontfix
+7;bkeepers;PRobot; 60; 7; wontfix
+6;mcollina;fastify; 15; 7; stale
+2;mcollina;fastify; 15; 7; stale
+9;martincostello;sqllocaldb; 56; 7; wontfix
+0;martincostello;sqllocaldb; 56; 7; wontfix
+6;wangjordy;wangjordy.github.io; 60; 7;
+6;wangjordy;wangjordy.github.io; 60; 7;
+9;feathersjs;feathers-knex; 84; 7; wontfix
+3;PowerShell;xWebAdministration; 14; 40; abandoned
+4;exercism;xpascal;;;
+0;choojs;bankai; 90; 7; wontfix
+2;msiemens;tinydb; 30; 7; wontfix
+0;msiemens;tinydb; 30; 7; stale
+6;msiemens;tinydb; 30; 7; stale
+6;rosekaron;rosekaron.github.io; 30; 7;
+6;rosekaron;rosekaron.github.io; 30; 7;
+3;rosekaron;rosekaron.github.io; 30; 7;
+2;awslabs;aws-sdk-ios-samples; 36500; 7; closing
+3;auth0-extensions;auth0-box-platform-extension;;;
+6;dawson-org;dawson-cli; 60; 30; wontfix
+6;dawson-org;dawson-cli; 60; 30; wontfix
+3;dawson-org;dawson-cli; 60; 30; wontfix
+4;PowerShell;xPhp; 14; 40; abandoned
+3;stoelzle;pdfify-alfred; 30; 7; wontfix
+6;stoelzle;pdfify-alfred; 30; 7; wontfix
+0;javascript-obfuscator;javascript-obfuscator; 10; 7; need
+8;wysiwygjs;wysiwyg.js;;;
+3;Homebrew;homebrew-services; 21; 7; stale
+9;PowerShell;xWindowsRestore; 14; 40; abandoned
+7;tbsexton;tbsexton.github.io; 30; 7;
+7;tbsexton;tbsexton.github.io; 30; 7;
+2;tbsexton;tbsexton.github.io; 30; 7;
+3;tbsexton;tbsexton.github.io; 30; 7;
+8;tbsexton;tbsexton.github.io; 30; 7;
+9;tbsexton;tbsexton.github.io; 30; 7;
+0;tbsexton;tbsexton.github.io; 30; 7;
+1;tbsexton;tbsexton.github.io; 30; 7;
+3;tbsexton;tbsexton.github.io; 30; 7;
+0;tbsexton;tbsexton.github.io; 30; 7;
+3;tbsexton;tbsexton.github.io; 30; 7;
+0;tbsexton;tbsexton.github.io; 30; 7;
+3;tbsexton;tbsexton.github.io; 30; 7;
+3;tbsexton;tbsexton.github.io; 30; 7;
+3;ljvmiranda921;pyswarms; 30; 3; stale
+1;PowerShell;xSCVMM; 14; 40; abandoned
+4;apollostack;react-apollo; 14; 7;
+4;apollostack;react-apollo; 14; 7;
+1;apollostack;react-apollo; 14; 7;
+8;apollostack;react-apollo; 21; 14; no
+0;Eugeny;terminus; 60; 14;
+7;McJty;RFToolsDimensions; 100000; 14;
+9;bkimminich;z85-cli; 84; 14; wontfix
+5;bkimminich;z85-cli; 84; 14; wontfix
+4;ParsePlatform;Parse-SDK-iOS-OSX; 45; 7; wontfix
+3;bkimminich;juice-shop-ctf; 84; 14; wontfix
+1;bkimminich;juice-shop-ctf; 84; 14; wontfix
+5;bkimminich;juice-shop-ctf; 84; 14; stale
+8;bkimminich;juice-shop-ctf; 84; 14; stale
+8;PowerShell;DscResource.Tests; 14; 40; abandoned
+1;dresden-elektronik;deconz-rest-plugin; 120; 7; wontfix
+3;dresden-elektronik;deconz-rest-plugin; 120; 7; stale
+1;soscripted;sox; 30; 7; rejected
+2;node-nock;nock; 90; 7; stale
+7;node-nock;nock; 90; 7; stale
+5;node-nock;nock; 90; 7; stale
+9;martincostello;alexa-london-travel-site; 56; 7; wontfix
+4;martincostello;alexa-london-travel-site; 56; 7; wontfix
+4;danielcaldas;react-d3-graph; 20; 7; wontfix
+9;danielcaldas;react-d3-graph;;;
+7;danielcaldas;react-d3-graph; 30; 10; wontfix
+7;danielcaldas;react-d3-graph; 40; 20; wontfix
+4;excon;excon.github.io; 60; 7; wontfix
+1;goreleaser;goreleaser; 60; 7; wontfix
+9;goreleaser;goreleaser; 60; 7; wontfix
+5;goreleaser;goreleaser; 14; 7; wontfix
+9;awslabs;aws-sdk-android-samples; 36500; 7; closing
+5;serverspec;specinfra; 60; 7; wontfix
+9;FogPress;docker-alpine; 60; 7; wontfix
+1;tangming2008;tangming2008.github.io; 30; 7;
+4;tangming2008;tangming2008.github.io; 30; 7;
+9;tangming2008;tangming2008.github.io; 30; 7;
+9;tangming2008;tangming2008.github.io; 30; 7;
+8;tangming2008;tangming2008.github.io; 30; 7;
+8;tangming2008;tangming2008.github.io; 30; 7;
+2;tangming2008;tangming2008.github.io; 30; 7;
+4;tangming2008;tangming2008.github.io; 30; 7;
+5;feathersjs;feathers-logger; 84; 7; wontfix
+9;mati75;vimb; 60; 7; stale
+5;mati75;vimb; 60; 7; stale
+2;cesarferreira;alfi; 30; 7; wontfix
+0;gorilla;mux; 60; 7; stale
+3;nijel;wlc; 60; 14; wontfix
+1;marcosmoura;vue-material; 30; 7; stale
+8;CHEF-KOCH;FFCK; 30; 7;
+5;angular-ui;ui-grid; 60; 30; stale
+9;education;classroom;;;
+3;education;classroom;;;
+9;education;classroom;;;
+7;education;classroom; 60; 7; stale
+0;education;classroom; 60; 7; stale
+3;education;classroom; 60; 7; stale
+7;education;classroom; 60; 7; stale
+9;education;classroom; 60; 7; stale
+0;education;classroom; 60; 7; stale
+7;education;classroom; 60; 7; stale
+7;education;classroom; 60; 7; stale
+2;education;classroom; 60; 7; stale
+5;education;classroom; 60; 7; stale
+7;education;classroom; 60; 7; stale
+8;education;classroom; 60;; stale
+6;education;classroom; 60;; stale
+0;education;classroom; 60;; stale
+5;education;classroom; 60;; stale
+0;education;classroom; 60;; stale
+1;education;classroom; 60;; stale
+5;education;classroom; 60;; stale
+7;education;classroom; 60;; stale
+6;education;classroom; 60;; stale
+6;LinioIT;input;;;
+9;LinioIT;input; 3;; stale
+5;LinioIT;input; 3;; stale
+4;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+2;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+5;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+7;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+6;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+6;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+6;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+7;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+0;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+8;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+3;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+4;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+4;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+5;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+6;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+3;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+0;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+7;serverdensity;sd-agent-core-plugins; 60; 1095; stale
+6;jpadilla;ember-cli-simple-auth-token; 60; 7; wontfix
+5;jpadilla;ember-cli-simple-auth-token; 60; 7; wontfix
+1;feathersjs;feathers-mongodb; 84; 7; wontfix
+7;jaredpalmer;razzle; 60; 7; stale
+4;poldracklab;preprocessing-workflow; 100; 7; stale
+8;poldracklab;preprocessing-workflow; 100; 7; stale
+1;poldracklab;preprocessing-workflow; 300; 20; stale
+5;poldracklab;preprocessing-workflow; 100; 7; stale
+8;poldracklab;preprocessing-workflow; 100; 7; stale
+5;poldracklab;preprocessing-workflow; 300; 20; stale
+5;poldracklab;preprocessing-workflow; 300; 20; stale
+5;ToroCraft;Minecoprocessors; 60; 7; stale
+9;ToroCraft;Minecoprocessors; 60; 7; stale
+8;ToroCraft;Minecoprocessors; 60; 7; stale
+8;spotify;helios; 60; 7; stale
+2;spotify;helios; 60; 7; stale
+9;rpottsoh;exercism-delphi;;;
+6;cesarferreira;dryrun; 30; 7; wontfix
+7;eventespresso;eea-payment-methods-pro; 60; 7; status
+7;hassio-addons;build-env; 60; 7;
+0;savonrb;savon; 60; 7; wontfix
+8;savonrb;savon; 60; 7; stale
+4;securestate;king-phisher; 7; 7; stale
+0;securestate;king-phisher; 7; 7; stale
+6;WildGums;Orc.Sort; 60; 7; wontfix
+5;WildGums;Orc.Sort; 60; 7; wontfix
+0;WildGums;Orc.Sort; 60; 7; wontfix
+1;brchristian;rails;;; wontfix
+7;brchristian;rails;;; stale
+1;brchristian;rails; 90; 7; stale
+8;brchristian;rails; 90; 7; stale
+0;brchristian;rails; 90; 7; stale
+1;brchristian;rails; 90; 7; stale
+4;brchristian;rails; 90; 7; stale
+9;wso2-incubator;product-device-cloud; 10; 5; Resolution
+4;wso2-incubator;product-device-cloud; 10; 5; Resolution
+2;wso2-incubator;product-device-cloud; 10; 5; Resolution
+9;wso2-incubator;product-device-cloud; 10; 5; Resolution
+0;wso2-incubator;product-device-cloud; 10; 5; Resolution
+7;wso2-incubator;product-device-cloud; 10;; Resolution
+4;wso2-incubator;product-device-cloud; 10;; Resolution
+1;Samfox2;homebridge-domotiga; 60; 7; stale
+7;Mirantis;virtlet;;;
+2;Mirantis;virtlet;;;
+5;auth0-extensions;auth0-extension-ui;;;
+9;react-dropzone;react-dropzone; 60; 7; stale
+4;react-dropzone;react-dropzone; 60; 7; stale
+1;react-dropzone;react-dropzone; 60; 7; stale
+8;jaredpalmer;react-production-starter; 60; 7; stale
+3;PowerShell;xPSDesiredStateConfiguration; 14; 40; abandoned
+5;ssbc;ssb-feed; 60; 7; stale
+9;exercism;xerlang;;;
+1;exercism;xerlang;;;
+4;exercism;xerlang;;;
+9;exercism;xerlang;;;
+0;exercism;xerlang;;;
+1;exercism;xerlang;;;
+0;exercism;xerlang;;;
+7;PowerShell;xWebDeploy; 14; 40; abandoned
+7;tarampampam;nod32-update-mirror; 80; 30; wontfix
+8;tarampampam;nod32-update-mirror; 80; 30; wontfix
+6;pattern-lab;patternlab-node; 60; 7; needs
+0;pattern-lab;patternlab-node; 60; 7; needs
+2;pattern-lab;patternlab-node; 60; 7; needs
+1;pattern-lab;patternlab-node; 60; 7; needs
+1;pattern-lab;patternlab-node; 60; 7; needs
+4;pattern-lab;patternlab-node; 60; 7; needs
+5;pattern-lab;patternlab-node; 60; 7; needs
+1;pattern-lab;patternlab-node; 60; 7; needs
+2;pattern-lab;patternlab-node; 60; 7; needs
+0;pattern-lab;patternlab-node; 60; 7; needs
+3;pattern-lab;patternlab-node; 60; 14;
+1;pattern-lab;patternlab-node; 60; 14;
+9;pattern-lab;patternlab-node; 60; 14;
+5;PowerShell;xAzure; 14; 40; abandoned
+2;ceolter;ag-grid; 10; 4; wontfix
+0;ceolter;ag-grid; 10; 4; wontfix
+5;ceolter;ag-grid; 25; 5; wontfix
+8;ceolter;ag-grid; 25; 5; wontfix
+1;ceolter;ag-grid; 25; 5; wontfix
+1;iberianpig;fusuma; 60; 7; wontfix
+0;rackerlabs;django-DefectDojo; 45; 7; wontfix
+6;rackerlabs;django-DefectDojo; 45; 7; stale
+6;CatenaLogic;RepositoryCleaner; 60; 7; wontfix
+7;feathersjs;feathers-nedb; 84; 7; wontfix
+5;kura;eevee;;;
+6;mattlewis92;angular-bootstrap-calendar; 60; 7; wontfix
+4;PowerShell;xNetworking; 14; 40; abandoned
+1;PowerShell;xNetworking; 14; 40; abandoned
+4;devopsdays;devopsdays-cli; 60; 7; wontfix
+3;devopsdays;devopsdays-cli; 60; 120; wontfix
+6;kura;yarg;;;
+6;mhbu50;frappe; 7; 2; inactive
+5;mhbu50;frappe; 10; 7; inactive
+7;cucumber;cucumber-ruby-core; 60; 7; Stale
+2;exercism;xlisp;;;
+4;benbalter;jekyll-titles-from-headings; 60; 7; wontfix
+9;benbalter;jekyll-titles-from-headings; 60; 7; wontfix
+8;benbalter;jekyll-titles-from-headings; 60; 7; wontfix
+9;benbalter;jekyll-titles-from-headings; 60; 7; wontfix
+7;benbalter;jekyll-titles-from-headings; 60; 7; wontfix
+7;directus;directus; 60; 7; stale
+3;prakhar1989;react-tags; 30;; Stale
+3;airsonic;airsonic; 60; 90; stale
+4;airsonic;airsonic; 90; 180; stale
+9;airsonic;airsonic; 90; 180; stale
+6;HewlettPackard;fog-core; 60; 7; wontfix
+6;fog;xDnsServer; 14; 40; abandoned
+8;PowerShell;netdata; 60;; help
+0;ktsaou;netdata; 60;; help
+4;ktsaou;netdata; 60; 60; stale
+0;ktsaou;netdata; 60; 60; stale
+9;ktsaou;netdata; 45; 60; stale
+1;obiba;onyx; 60; 7; wontfix
+9;obiba;onyx; 60; 7; wontfix
+7;andrewedstrom;andrewedstrom.github.io; 30; 7;
+4;andrewedstrom;andrewedstrom.github.io; 30; 7;
+0;andrewedstrom;andrewedstrom.github.io; 30; 7;
+1;andrewedstrom;andrewedstrom.github.io; 30; 7;
+5;andrewedstrom;andrewedstrom.github.io; 30; 7;
+9;spf13;hugoThemes; 20; 30; Stale
+1;coliff;caniuse.email; 30; 7;
+7;iNavFlight;LuaTelemetry; 120; 7; wontfix
+6;iNavFlight;LuaTelemetry; 120; 7; wontfix
+2;iNavFlight;LuaTelemetry; 120; 7; wontfix
+4;iNavFlight;LuaTelemetry; 120; 7; wontfix
+3;iNavFlight;LuaTelemetry; 45; 7; inactive
+1;iNavFlight;LuaTelemetry; 45; 7; inactive
+7;iNavFlight;LuaTelemetry; 45; 7; inactive
+7;PlagueHO;xFSRM; 14; 40; abandoned
+7;PlagueHO;xFSRM; 14; 40; abandoned
+2;arendst;Sonoff-Tasmota; 120; 14; stale
+3;arendst;Sonoff-Tasmota; 120; 14; stale
+6;arendst;Sonoff-Tasmota; 120; 14; stale
+1;arendst;Sonoff-Tasmota; 120; 14; stale
+5;arendst;Sonoff-Tasmota; 120; 14; stale
+9;arendst;Sonoff-Tasmota; 120; 14; stale
+9;arendst;Sonoff-Tasmota; 60; 14; stale
+7;arendst;Sonoff-Tasmota; 30; 7; stale
+8;arendst;Sonoff-Tasmota; 45; 15; stale
+7;arendst;Sonoff-Tasmota; 45; 15; stale
+6;arendst;Sonoff-Tasmota; 45; 15; stale
+3;arendst;Sonoff-Tasmota; 45; 15; stale
+1;arendst;Sonoff-Tasmota; 45; 15; stale
+9;arendst;Sonoff-Tasmota; 45; 15; stale
+5;arendst;Sonoff-Tasmota; 45; 15; stale
+4;makaroniame;makaroniame.github.io; 30; 7;
+6;makaroniame;makaroniame.github.io; 30; 7;
+9;makaroniame;makaroniame.github.io; 30; 7;
+0;makaroniame;makaroniame.github.io; 30; 7;
+2;makaroniame;makaroniame.github.io; 30; 7;
+2;makaroniame;makaroniame.github.io; 30; 7;
+9;PowerShell;xJea; 14; 40; abandoned
+2;exercism;xelixir;;;
+0;rsv1925;rsv1925.github.io; 30; 7;
+2;PowerShell;xSCSR; 14; 40; abandoned
+5;betaflight;docker-betaflight-build; 30; 7; Inactive
+6;betaflight;docker-betaflight-build; 30; 7; Inactive
+3;saltstack;salt; 1275; 7; stale
+6;saltstack;salt; 1275; 7; stale
+0;saltstack;salt; 1275; 7; stale
+2;saltstack;salt; 1250; 7; stale
+2;saltstack;salt; 1250; 7; stale
+2;saltstack;salt; 1250; 7; stale
+2;saltstack;salt; 1250; 7; stale
+9;saltstack;salt; 1250; 7; stale
+9;saltstack;salt; 1250; 7; stale
+5;saltstack;salt; 1250; 7; stale
+5;saltstack;salt; 1250; 7; stale
+0;saltstack;salt; 1250; 7; stale
+9;saltstack;salt; 1225; 7; stale
+8;saltstack;salt; 1225; 7; stale
+8;saltstack;salt; 1225; 7; stale
+0;saltstack;salt; 1225; 7; stale
+8;saltstack;salt; 1225; 7; stale
+7;saltstack;salt; 1225; 7; stale
+8;saltstack;salt; 1225; 7; stale
+4;saltstack;salt; 1200; 7; stale
+1;saltstack;salt; 1200; 7; stale
+4;saltstack;salt; 1200; 7; stale
+7;saltstack;salt; 1200; 7; stale
+7;saltstack;salt; 1200; 7; stale
+1;saltstack;salt; 1200; 7; stale
+0;saltstack;salt; 1200; 7; stale
+5;saltstack;salt; 1200; 7; stale
+2;saltstack;salt; 1200; 7; stale
+6;saltstack;salt; 1200; 7; stale
+4;saltstack;salt; 1200; 7; stale
+6;saltstack;salt; 1200; 7; stale
+2;saltstack;salt; 1175; 7; stale
+0;saltstack;salt; 1175; 7; stale
+9;saltstack;salt; 1175; 7; stale
+9;saltstack;salt; 1175; 7; stale
+0;saltstack;salt; 1175; 7; stale
+5;saltstack;salt; 1175; 7; stale
+7;saltstack;salt; 1175; 7; stale
+3;saltstack;salt; 1175; 7; stale
+4;saltstack;salt; 1175; 7; stale
+6;saltstack;salt; 1175; 7; stale
+9;saltstack;salt; 1175; 7; stale
+4;saltstack;salt; 1175; 7; stale
+0;saltstack;salt; 1175; 7; stale
+1;saltstack;salt; 1160; 7; stale
+1;saltstack;salt; 1160; 7; stale
+5;saltstack;salt; 1160; 7; stale
+6;saltstack;salt; 1160; 7; stale
+0;saltstack;salt; 1145; 7; stale
+6;saltstack;salt; 1145; 7; stale
+7;saltstack;salt; 1145; 7; stale
+6;saltstack;salt; 1145; 7; stale
+3;saltstack;salt; 1145; 7; stale
+2;saltstack;salt; 1145; 7; stale
+8;saltstack;salt; 1145; 7; stale
+0;saltstack;salt; 1145; 7; stale
+8;saltstack;salt; 1145; 7; stale
+6;saltstack;salt; 1145; 7; stale
+0;saltstack;salt; 1145; 7; stale
+8;saltstack;salt; 1130; 7; stale
+0;saltstack;salt; 1130; 7; stale
+6;saltstack;salt; 1130; 7; stale
+0;saltstack;salt; 1130; 7; stale
+0;saltstack;salt; 1130; 7; stale
+6;saltstack;salt; 1130; 7; stale
+3;saltstack;salt; 1130; 7; stale
+9;saltstack;salt; 1130; 7; stale
+7;saltstack;salt; 1130; 7; stale
+4;saltstack;salt; 1130; 7; stale
+4;saltstack;salt; 1130; 7; stale
+6;saltstack;salt; 1130; 7; stale
+3;saltstack;salt; 1130; 7; stale
+2;saltstack;salt; 1130; 7; stale
+0;saltstack;salt; 1130; 7; stale
+7;saltstack;salt; 1130; 7; stale
+9;saltstack;salt; 1115; 7; stale
+5;saltstack;salt; 1115; 7; stale
+5;saltstack;salt; 1115; 7; stale
+4;saltstack;salt; 1115; 7; stale
+4;saltstack;salt; 1115; 7; stale
+7;saltstack;salt; 1115; 7; stale
+6;saltstack;salt; 1115; 7; stale
+2;saltstack;salt; 1115; 7; stale
+5;saltstack;salt; 1115; 7; stale
+9;saltstack;salt; 1115; 7; stale
+0;saltstack;salt; 1115; 7; stale
+1;saltstack;salt; 1115; 7; stale
+3;saltstack;salt; 1100; 7; stale
+3;saltstack;salt; 1115; 7; stale
+0;saltstack;salt; 1115; 7; stale
+1;saltstack;salt; 1115; 7; stale
+3;saltstack;salt; 1100; 7; stale
+8;saltstack;salt; 1100; 7; stale
+6;saltstack;salt; 1100; 7; stale
+5;saltstack;salt; 1100; 7; stale
+8;saltstack;salt; 1100; 7; stale
+9;saltstack;salt; 1100; 7; stale
+2;saltstack;salt; 1100; 7; stale
+8;saltstack;salt; 1100; 7; stale
+6;saltstack;salt; 1100; 7; stale
+3;saltstack;salt; 1100; 7; stale
+9;saltstack;salt; 1100; 7; stale
+6;saltstack;salt; 1100; 7; stale
+0;saltstack;salt; 1100; 7; stale
+2;saltstack;salt; 1100; 7; stale
+5;saltstack;salt; 1075; 7; stale
+0;saltstack;salt; 1075; 7; stale
+7;saltstack;salt; 1075; 7; stale
+4;saltstack;salt; 1075; 7; stale
+9;saltstack;salt; 1075; 7; stale
+7;saltstack;salt; 1075; 7; stale
+0;saltstack;salt; 1075; 7; stale
+9;saltstack;salt; 1060; 7; stale
+6;saltstack;salt; 1075; 7; stale
+7;saltstack;salt; 1075; 7; stale
+7;saltstack;salt; 1060; 7; stale
+6;saltstack;salt; 1060; 7; stale
+4;saltstack;salt; 1060; 7; stale
+8;saltstack;salt; 1060; 7; stale
+0;saltstack;salt; 1030; 7; stale
+0;saltstack;salt; 1030; 7; stale
+8;saltstack;salt; 1030; 7; stale
+7;saltstack;salt; 1030; 7; stale
+4;saltstack;salt; 1030; 7; stale
+0;saltstack;salt; 1030; 7; stale
+0;saltstack;salt; 1030; 7; stale
+1;saltstack;salt; 1030; 7; stale
+2;saltstack;salt; 1030; 7; stale
+8;saltstack;salt; 1030; 7; stale
+0;saltstack;salt; 1030; 7; stale
+5;saltstack;salt; 1030; 7; stale
+6;saltstack;salt; 1030; 7; stale
+3;saltstack;salt; 1030; 7; stale
+9;saltstack;salt; 1030; 7; stale
+5;saltstack;salt; 1030; 7; stale
+6;saltstack;salt; 1000; 7; stale
+0;saltstack;salt; 1000; 7; stale
+4;saltstack;salt; 1000; 7; stale
+0;saltstack;salt; 1000; 7; stale
+2;saltstack;salt; 1000; 7; stale
+4;saltstack;salt; 1000; 7; stale
+2;saltstack;salt; 1000; 7; stale
+1;saltstack;salt; 1000; 7; stale
+6;saltstack;salt; 1000; 7; stale
+6;saltstack;salt; 1000; 7; stale
+9;saltstack;salt; 1000; 7; stale
+8;saltstack;salt; 1000; 7; stale
+6;saltstack;salt; 1000; 7; stale
+3;saltstack;salt; 1000; 7; stale
+7;saltstack;salt; 1000; 7; stale
+4;saltstack;salt; 1000; 7; stale
+0;saltstack;salt; 1000; 7; stale
+3;saltstack;salt; 1000; 7; stale
+3;saltstack;salt; 1000; 7; stale
+0;saltstack;salt; 975; 7; stale
+9;saltstack;salt; 1000; 7; stale
+1;saltstack;salt; 1000; 7; stale
+7;saltstack;salt; 975; 7; stale
+8;saltstack;salt; 975; 7; stale
+7;saltstack;salt; 975; 7; stale
+1;saltstack;salt; 975; 7; stale
+3;saltstack;salt; 975; 7; stale
+9;saltstack;salt; 975; 7; stale
+5;saltstack;salt; 975; 7; stale
+2;saltstack;salt; 975; 7; stale
+2;saltstack;salt; 975; 7; stale
+0;saltstack;salt; 975; 7; stale
+3;saltstack;salt; 975; 7; stale
+3;saltstack;salt; 975; 7; stale
+1;saltstack;salt; 975; 7; stale
+1;saltstack;salt; 975; 7; stale
+6;saltstack;salt; 975; 7; stale
+1;saltstack;salt; 975; 7; stale
+3;saltstack;salt; 975; 7; stale
+6;saltstack;salt; 975; 7; stale
+0;saltstack;salt; 975; 7; stale
+1;saltstack;salt; 975; 7; stale
+9;saltstack;salt; 975; 7; stale
+4;saltstack;salt; 975; 7; stale
+1;saltstack;salt; 950; 7; stale
+1;saltstack;salt; 950; 7; stale
+2;saltstack;salt; 950; 7; stale
+9;saltstack;salt; 950; 7; stale
+5;saltstack;salt; 950; 7; stale
+5;saltstack;salt; 950; 7; stale
+2;saltstack;salt; 950; 7; stale
+0;saltstack;salt; 950; 7; stale
+4;saltstack;salt; 950; 7; stale
+0;saltstack;salt; 950; 7; stale
+8;saltstack;salt; 950; 7; stale
+3;saltstack;salt; 950; 7; stale
+2;saltstack;salt; 950; 7; stale
+2;saltstack;salt; 950; 7; stale
+0;saltstack;salt; 950; 7; stale
+8;saltstack;salt; 925; 7; stale
+7;saltstack;salt; 925; 7; stale
+5;saltstack;salt; 925; 7; stale
+8;saltstack;salt; 925; 7; stale
+4;saltstack;salt; 925; 7; stale
+0;saltstack;salt; 925; 7; stale
+6;saltstack;salt; 925; 7; stale
+4;saltstack;salt; 925; 7; stale
+6;saltstack;salt; 925; 7; stale
+5;saltstack;salt; 925; 7; stale
+3;saltstack;salt; 910; 7; stale
+0;saltstack;salt; 910; 7; stale
+3;saltstack;salt; 910; 7; stale
+2;saltstack;salt; 910; 7; stale
+1;saltstack;salt; 910; 7; stale
+1;saltstack;salt; 910; 7; stale
+9;saltstack;salt; 910; 7; stale
+4;saltstack;salt; 910; 7; stale
+9;saltstack;salt; 910; 7; stale
+6;saltstack;salt; 900; 7; stale
+8;saltstack;salt; 900; 7; stale
+7;saltstack;salt; 900; 7; stale
+4;saltstack;salt; 900; 7; stale
+6;saltstack;salt; 900; 7; stale
+1;saltstack;salt; 900; 7; stale
+2;saltstack;salt; 900; 7; stale
+7;saltstack;salt; 900; 7; stale
+6;saltstack;salt; 900; 7; stale
+1;saltstack;salt; 890; 7; stale
+3;saltstack;salt; 890; 7; stale
+3;saltstack;salt; 890; 7; stale
+5;saltstack;salt; 890; 7; stale
+9;saltstack;salt; 890; 7; stale
+2;saltstack;salt; 890; 7; stale
+0;saltstack;salt; 890; 7; stale
+6;saltstack;salt; 890; 7; stale
+9;saltstack;salt; 890; 7; stale
+1;saltstack;salt; 890; 7; stale
+0;saltstack;salt; 890; 7; stale
+5;saltstack;salt; 890; 7; stale
+1;saltstack;salt; 890; 7; stale
+7;saltstack;salt; 890; 7; stale
+3;saltstack;salt; 890; 7; stale
+4;saltstack;salt; 890; 7; stale
+6;saltstack;salt; 890; 7; stale
+8;saltstack;salt; 890; 7; stale
+3;saltstack;salt; 890; 7; stale
+5;saltstack;salt; 890; 7; stale
+4;saltstack;salt; 875; 7; stale
+7;saltstack;salt; 890; 7; stale
+4;saltstack;salt; 875; 7; stale
+2;saltstack;salt; 875; 7; stale
+6;saltstack;salt; 875; 7; stale
+0;saltstack;salt; 875; 7; stale
+2;saltstack;salt; 875; 7; stale
+6;saltstack;salt; 875; 7; stale
+7;saltstack;salt; 875; 7; stale
+2;saltstack;salt; 875; 7; stale
+2;saltstack;salt; 875; 7; stale
+6;saltstack;salt; 875; 7; stale
+9;saltstack;salt; 860; 7; stale
+3;saltstack;salt; 875; 7; stale
+0;saltstack;salt; 875; 7; stale
+1;saltstack;salt; 860; 7; stale
+4;saltstack;salt; 860; 7; stale
+3;saltstack;salt; 860; 7; stale
+6;saltstack;salt; 860; 7; stale
+4;saltstack;salt; 860; 7; stale
+7;saltstack;salt; 860; 7; stale
+8;saltstack;salt; 860; 7; stale
+0;saltstack;salt; 860; 7; stale
+4;saltstack;salt; 860; 7; stale
+3;saltstack;salt; 860; 7; stale
+0;saltstack;salt; 860; 7; stale
+0;saltstack;salt; 860; 7; stale
+6;saltstack;salt; 860; 7; stale
+7;saltstack;salt; 860; 7; stale
+1;saltstack;salt; 860; 7; stale
+4;saltstack;salt; 860; 7; stale
+4;saltstack;salt; 860; 7; stale
+2;saltstack;salt; 860; 7; stale
+2;saltstack;salt; 860; 7; stale
+8;saltstack;salt; 860; 7; stale
+7;saltstack;salt; 860; 7; stale
+7;saltstack;salt; 860; 7; stale
+9;saltstack;salt; 860; 7; stale
+3;saltstack;salt; 860; 7; stale
+9;saltstack;salt; 860; 7; stale
+8;saltstack;salt; 860; 7; stale
+7;saltstack;salt; 850; 7; stale
+8;saltstack;salt; 860; 7; stale
+7;saltstack;salt; 860; 7; stale
+6;saltstack;salt; 860; 7; stale
+2;saltstack;salt; 850; 7; stale
+2;saltstack;salt; 850; 7; stale
+9;saltstack;salt; 850; 7; stale
+5;saltstack;salt; 850; 7; stale
+1;saltstack;salt; 850; 7; stale
+5;saltstack;salt; 850; 7; stale
+9;saltstack;salt; 850; 7; stale
+0;saltstack;salt; 850; 7; stale
+3;saltstack;salt; 840; 7; stale
+6;saltstack;salt; 840; 7; stale
+8;saltstack;salt; 840; 7; stale
+2;saltstack;salt; 840; 7; stale
+2;saltstack;salt; 840; 7; stale
+3;saltstack;salt; 840; 7; stale
+0;saltstack;salt; 840; 7; stale
+9;saltstack;salt; 840; 7; stale
+5;saltstack;salt; 840; 7; stale
+0;saltstack;salt; 840; 7; stale
+3;saltstack;salt; 840; 7; stale
+7;saltstack;salt; 840; 7; stale
+2;saltstack;salt; 840; 7; stale
+1;saltstack;salt; 830; 7; stale
+9;saltstack;salt; 830; 7; stale
+1;saltstack;salt; 830; 7; stale
+7;saltstack;salt; 830; 7; stale
+0;saltstack;salt; 830; 7; stale
+5;saltstack;salt; 830; 7; stale
+9;saltstack;salt; 830; 7; stale
+0;saltstack;salt; 830; 7; stale
+4;saltstack;salt; 830; 7; stale
+7;saltstack;salt; 830; 7; stale
+9;saltstack;salt; 830; 7; stale
+1;saltstack;salt; 830; 7; stale
+8;saltstack;salt; 830; 7; stale
+5;saltstack;salt; 830; 7; stale
+5;saltstack;salt; 830; 7; stale
+7;saltstack;salt; 820; 7; stale
+5;saltstack;salt; 830; 7; stale
+4;saltstack;salt; 820; 7; stale
+4;saltstack;salt; 820; 7; stale
+7;saltstack;salt; 820; 7; stale
+2;saltstack;salt; 820; 7; stale
+1;saltstack;salt; 820; 7; stale
+3;saltstack;salt; 820; 7; stale
+2;saltstack;salt; 820; 7; stale
+6;saltstack;salt; 830; 7; stale
+2;saltstack;salt; 820; 7; stale
+1;saltstack;salt; 820; 7; stale
+1;saltstack;salt; 820; 7; stale
+0;saltstack;salt; 820; 7; stale
+5;saltstack;salt; 820; 7; stale
+5;saltstack;salt; 820; 7; stale
+7;saltstack;salt; 820; 7; stale
+3;saltstack;salt; 810; 7; stale
+8;saltstack;salt; 810; 7; stale
+7;saltstack;salt; 810; 7; stale
+3;saltstack;salt; 810; 7; stale
+9;saltstack;salt; 810; 7; stale
+9;saltstack;salt; 810; 7; stale
+1;saltstack;salt; 810; 7; stale
+8;saltstack;salt; 810; 7; stale
+4;saltstack;salt; 820; 7; stale
+9;saltstack;salt; 810; 7; stale
+1;saltstack;salt; 810; 7; stale
+9;saltstack;salt; 810; 7; stale
+2;saltstack;salt; 800; 7; stale
+5;saltstack;salt; 800; 7; stale
+7;saltstack;salt; 800; 7; stale
+0;saltstack;salt; 800; 7; stale
+3;saltstack;salt; 800; 7; stale
+7;saltstack;salt; 800; 7; stale
+2;saltstack;salt; 800; 7; stale
+6;saltstack;salt; 790; 7; stale
+6;saltstack;salt; 790; 7; stale
+9;saltstack;salt; 790; 7; stale
+9;saltstack;salt; 790; 7; stale
+5;saltstack;salt; 790; 7; stale
+7;saltstack;salt; 790; 7; stale
+2;saltstack;salt; 790; 7; stale
+0;saltstack;salt; 790; 7; stale
+0;saltstack;salt; 790; 7; stale
+2;saltstack;salt; 790; 7; stale
+2;saltstack;salt; 790; 7; stale
+6;saltstack;salt; 790; 7; stale
+9;saltstack;salt; 780; 7; stale
+0;saltstack;salt; 790; 7; stale
+7;saltstack;salt; 780; 7; stale
+5;saltstack;salt; 780; 7; stale
+9;saltstack;salt; 780; 7; stale
+0;saltstack;salt; 780; 7; stale
+9;saltstack;salt; 780; 7; stale
+0;saltstack;salt; 780; 7; stale
+6;saltstack;salt; 780; 7; stale
+2;saltstack;salt; 780; 7; stale
+5;saltstack;salt; 770; 7; stale
+4;saltstack;salt; 770; 7; stale
+4;saltstack;salt; 770; 7; stale
+4;saltstack;salt; 770; 7; stale
+6;saltstack;salt; 770; 7; stale
+1;saltstack;salt; 770; 7; stale
+5;saltstack;salt; 770; 7; stale
+7;saltstack;salt; 770; 7; stale
+9;saltstack;salt; 770; 7; stale
+6;saltstack;salt; 770; 7; stale
+6;saltstack;salt; 770; 7; stale
+9;saltstack;salt; 770; 7; stale
+1;saltstack;salt; 770; 7; stale
+0;saltstack;salt; 760; 7; stale
+7;saltstack;salt; 760; 7; stale
+3;saltstack;salt; 760; 7; stale
+5;saltstack;salt; 760; 7; stale
+7;saltstack;salt; 760; 7; stale
+4;saltstack;salt; 760; 7; stale
+5;saltstack;salt; 760; 7; stale
+3;saltstack;salt; 760; 7; stale
+9;saltstack;salt; 760; 7; stale
+4;saltstack;salt; 760; 7; stale
+3;saltstack;salt; 760; 7; stale
+8;saltstack;salt; 760; 7; stale
+1;saltstack;salt; 750; 7; stale
+9;saltstack;salt; 750; 7; stale
+2;saltstack;salt; 750; 7; stale
+5;saltstack;salt; 770; 7; stale
+1;saltstack;salt; 770; 7; stale
+6;saltstack;salt; 750; 7; stale
+2;saltstack;salt; 750; 7; stale
+3;saltstack;salt; 750; 7; stale
+1;saltstack;salt; 750; 7; stale
+8;saltstack;salt; 740; 7; stale
+9;saltstack;salt; 750; 7; stale
+0;saltstack;salt; 740; 7; stale
+7;saltstack;salt; 740; 7; stale
+2;saltstack;salt; 740; 7; stale
+1;saltstack;salt; 740; 7; stale
+8;saltstack;salt; 740; 7; stale
+1;saltstack;salt; 730; 7; stale
+6;saltstack;salt; 730; 7; stale
+4;saltstack;salt; 730; 7; stale
+6;saltstack;salt; 730; 7; stale
+8;saltstack;salt; 730; 7; stale
+2;saltstack;salt; 730; 7; stale
+6;saltstack;salt; 730; 7; stale
+5;saltstack;salt; 720; 7; stale
+3;saltstack;salt; 730; 7; stale
+9;saltstack;salt; 730; 7; stale
+9;saltstack;salt; 730; 7; stale
+8;saltstack;salt; 730; 7; stale
+8;saltstack;salt; 730; 7; stale
+6;saltstack;salt; 730; 7; stale
+9;saltstack;salt; 730; 7; stale
+1;saltstack;salt; 720; 7; stale
+9;saltstack;salt; 720; 7; stale
+5;saltstack;salt; 720; 7; stale
+8;saltstack;salt; 720; 7; stale
+4;saltstack;salt; 720; 7; stale
+6;saltstack;salt; 720; 7; stale
+0;saltstack;salt; 720; 7; stale
+0;saltstack;salt; 720; 7; stale
+8;saltstack;salt; 720; 7; stale
+4;saltstack;salt; 720; 7; stale
+8;saltstack;salt; 710; 7; stale
+5;saltstack;salt; 710; 7; stale
+1;saltstack;salt; 710; 7; stale
+0;saltstack;salt; 710; 7; stale
+8;saltstack;salt; 710; 7; stale
+6;saltstack;salt; 710; 7; stale
+6;saltstack;salt; 710; 7; stale
+8;saltstack;salt; 710; 7; stale
+5;saltstack;salt; 710; 7; stale
+6;saltstack;salt; 710; 7; stale
+4;saltstack;salt; 710; 7; stale
+6;saltstack;salt; 710; 7; stale
+6;saltstack;salt; 710; 7; stale
+4;saltstack;salt; 700; 7; stale
+4;saltstack;salt; 700; 7; stale
+3;saltstack;salt; 700; 7; stale
+0;saltstack;salt; 700; 7; stale
+8;saltstack;salt; 700; 7; stale
+5;saltstack;salt; 700; 7; stale
+1;saltstack;salt; 700; 7; stale
+5;saltstack;salt; 700; 7; stale
+0;saltstack;salt; 700; 7; stale
+7;saltstack;salt; 700; 7; stale
+4;saltstack;salt; 700; 7; stale
+4;saltstack;salt; 700; 7; stale
+1;saltstack;salt; 700; 7; stale
+5;saltstack;salt; 700; 7; stale
+2;saltstack;salt; 700; 7; stale
+6;saltstack;salt; 700; 7; stale
+4;saltstack;salt; 700; 7; stale
+4;saltstack;salt; 690; 7; stale
+5;saltstack;salt; 700; 7; stale
+3;saltstack;salt; 700; 7; stale
+0;saltstack;salt; 690; 7; stale
+1;saltstack;salt; 690; 7; stale
+2;saltstack;salt; 690; 7; stale
+8;saltstack;salt; 690; 7; stale
+3;saltstack;salt; 690; 7; stale
+2;saltstack;salt; 680; 7; stale
+4;saltstack;salt; 680; 7; stale
+1;saltstack;salt; 680; 7; stale
+9;saltstack;salt; 680; 7; stale
+7;saltstack;salt; 680; 7; stale
+0;saltstack;salt; 680; 7; stale
+1;saltstack;salt; 680; 7; stale
+8;saltstack;salt; 680; 7; stale
+5;saltstack;salt; 680; 7; stale
+7;saltstack;salt; 680; 7; stale
+2;saltstack;salt; 680; 7; stale
+5;saltstack;salt; 680; 7; stale
+3;saltstack;salt; 670; 7; stale
+8;saltstack;salt; 670; 7; stale
+7;saltstack;salt; 670; 7; stale
+1;saltstack;salt; 670; 7; stale
+1;saltstack;salt; 660; 7; stale
+1;saltstack;salt; 670; 7; stale
+0;saltstack;salt; 670; 7; stale
+0;saltstack;salt; 660; 7; stale
+3;saltstack;salt; 660; 7; stale
+8;saltstack;salt; 650; 7; stale
+1;saltstack;salt; 650; 7; stale
+3;saltstack;salt; 650; 7; stale
+0;saltstack;salt; 650; 7; stale
+9;saltstack;salt; 650; 7; stale
+9;saltstack;salt; 650; 7; stale
+2;saltstack;salt; 640; 7; stale
+6;saltstack;salt; 640; 7; stale
+8;saltstack;salt; 640; 7; stale
+4;saltstack;salt; 640; 7; stale
+3;saltstack;salt; 640; 7; stale
+6;saltstack;salt; 640; 7; stale
+5;saltstack;salt; 630; 7; stale
+8;saltstack;salt; 630; 7; stale
+3;saltstack;salt; 630; 7; stale
+5;saltstack;salt; 630; 7; stale
+9;saltstack;salt; 630; 7; stale
+2;saltstack;salt; 630; 7; stale
+6;saltstack;salt; 630; 7; stale
+8;saltstack;salt; 630; 7; stale
+2;saltstack;salt; 620; 7; stale
+8;saltstack;salt; 620; 7; stale
+8;saltstack;salt; 620; 7; stale
+5;saltstack;salt; 620; 7; stale
+3;saltstack;salt; 620; 7; stale
+0;saltstack;salt; 620; 7; stale
+2;saltstack;salt; 620; 7; stale
+3;saltstack;salt; 620; 7; stale
+6;saltstack;salt; 610; 7; stale
+1;saltstack;salt; 620; 7; stale
+1;saltstack;salt; 610; 7; stale
+3;saltstack;salt; 610; 7; stale
+6;saltstack;salt; 630; 7; stale
+6;saltstack;salt; 610; 7; stale
+4;saltstack;salt; 610; 7; stale
+1;saltstack;salt; 610; 7; stale
+2;saltstack;salt; 610; 7; stale
+5;saltstack;salt; 610; 7; stale
+6;saltstack;salt; 610; 7; stale
+6;saltstack;salt; 610; 7; stale
+4;saltstack;salt; 610; 7; stale
+0;saltstack;salt; 610; 7; stale
+9;saltstack;salt; 610; 7; stale
+4;saltstack;salt; 610; 7; stale
+7;saltstack;salt; 600; 7; stale
+6;saltstack;salt; 600; 7; stale
+3;saltstack;salt; 600; 7; stale
+5;saltstack;salt; 600; 7; stale
+7;saltstack;salt; 600; 7; stale
+0;saltstack;salt; 600; 7; stale
+6;saltstack;salt; 600; 7; stale
+9;saltstack;salt; 600; 7; stale
+8;saltstack;salt; 600; 7; stale
+1;saltstack;salt; 590; 7; stale
+4;saltstack;salt; 590; 7; stale
+6;saltstack;salt; 590; 7; stale
+6;saltstack;salt; 590; 7; stale
+5;saltstack;salt; 590; 7; stale
+9;saltstack;salt; 590; 7; stale
+1;saltstack;salt; 590; 7; stale
+7;saltstack;salt; 590; 7; stale
+5;saltstack;salt; 590; 7; stale
+4;saltstack;salt; 590; 7; stale
+1;saltstack;salt; 590; 7; stale
+5;saltstack;salt; 590; 7; stale
+3;saltstack;salt; 590; 7; stale
+5;saltstack;salt; 590; 7; stale
+2;saltstack;salt; 590; 7; stale
+7;saltstack;salt; 590; 7; stale
+7;saltstack;salt; 590; 7; stale
+2;saltstack;salt; 590; 7; stale
+9;saltstack;salt; 580; 7; stale
+5;saltstack;salt; 580; 7; stale
+6;saltstack;salt; 580; 7; stale
+9;saltstack;salt; 580; 7; stale
+0;saltstack;salt; 580; 7; stale
+7;saltstack;salt; 580; 7; stale
+3;saltstack;salt; 580; 7; stale
+7;saltstack;salt; 580; 7; stale
+2;saltstack;salt; 580; 7; stale
+0;saltstack;salt; 580; 7; stale
+5;saltstack;salt; 580; 7; stale
+0;saltstack;salt; 580; 7; stale
+7;saltstack;salt; 580; 7; stale
+6;saltstack;salt; 570; 7; stale
+2;saltstack;salt; 570; 7; stale
+3;saltstack;salt; 570; 7; stale
+7;saltstack;salt; 570; 7; stale
+9;saltstack;salt; 570; 7; stale
+6;saltstack;salt; 570; 7; stale
+9;saltstack;salt; 570; 7; stale
+8;saltstack;salt; 570; 7; stale
+5;saltstack;salt; 570; 7; stale
+6;saltstack;salt; 570; 7; stale
+3;saltstack;salt; 570; 7; stale
+0;saltstack;salt; 570; 7; stale
+1;saltstack;salt; 560; 7; stale
+2;saltstack;salt; 560; 7; stale
+8;saltstack;salt; 560; 7; stale
+4;saltstack;salt; 560; 7; stale
+5;saltstack;salt; 560; 7; stale
+8;saltstack;salt; 560; 7; stale
+6;saltstack;salt; 560; 7; stale
+2;saltstack;salt; 560; 7; stale
+4;saltstack;salt; 560; 7; stale
+4;saltstack;salt; 550; 7; stale
+1;saltstack;salt; 550; 7; stale
+3;saltstack;salt; 550; 7; stale
+0;saltstack;salt; 550; 7; stale
+0;saltstack;salt; 550; 7; stale
+1;saltstack;salt; 550; 7; stale
+1;saltstack;salt; 550; 7; stale
+2;saltstack;salt; 550; 7; stale
+2;saltstack;salt; 540; 7; stale
+9;saltstack;salt; 540; 7; stale
+8;saltstack;salt; 540; 7; stale
+6;saltstack;salt; 540; 7; stale
+4;saltstack;salt; 540; 7; stale
+1;saltstack;salt; 540; 7; stale
+4;saltstack;salt; 540; 7; stale
+0;saltstack;salt; 540; 7; stale
+6;saltstack;salt; 540; 7; stale
+2;saltstack;salt; 530; 7; stale
+4;saltstack;salt; 540; 7; stale
+9;saltstack;salt; 530; 7; stale
+0;saltstack;salt; 530; 7; stale
+6;saltstack;salt; 530; 7; stale
+3;saltstack;salt; 530; 7; stale
+9;saltstack;salt; 530; 7; stale
+6;saltstack;salt; 530; 7; stale
+4;saltstack;salt; 530; 7; stale
+6;saltstack;salt; 530; 7; stale
+7;saltstack;salt; 530; 7; stale
+2;saltstack;salt; 530; 7; stale
+1;saltstack;salt; 530; 7; stale
+6;saltstack;salt; 530; 7; stale
+4;saltstack;salt; 530; 7; stale
+8;saltstack;salt; 530; 7; stale
+4;saltstack;salt; 530; 7; stale
+7;saltstack;salt; 530; 7; stale
+4;saltstack;salt; 530; 7; stale
+3;saltstack;salt; 530; 7; stale
+4;saltstack;salt; 530; 7; stale
+6;saltstack;salt; 530; 7; stale
+0;saltstack;salt; 530; 7; stale
+3;saltstack;salt; 530; 7; stale
+9;saltstack;salt; 520; 7; stale
+9;saltstack;salt; 530; 7; stale
+3;saltstack;salt; 520; 7; stale
+5;saltstack;salt; 520; 7; stale
+3;saltstack;salt; 520; 7; stale
+8;saltstack;salt; 520; 7; stale
+4;saltstack;salt; 520; 7; stale
+7;saltstack;salt; 520; 7; stale
+5;saltstack;salt; 520; 7; stale
+8;saltstack;salt; 520; 7; stale
+7;saltstack;salt; 520; 7; stale
+1;saltstack;salt; 520; 7; stale
+4;saltstack;salt; 520; 7; stale
+1;saltstack;salt; 520; 7; stale
+1;saltstack;salt; 520; 7; stale
+9;saltstack;salt; 520; 7; stale
+1;saltstack;salt; 520; 7; stale
+3;saltstack;salt; 520; 7; stale
+8;saltstack;salt; 520; 7; stale
+4;saltstack;salt; 520; 7; stale
+8;saltstack;salt; 520; 7; stale
+4;saltstack;salt; 520; 7; stale
+4;saltstack;salt; 510; 7; stale
+5;saltstack;salt; 510; 7; stale
+3;saltstack;salt; 510; 7; stale
+3;saltstack;salt; 510; 7; stale
+2;saltstack;salt; 510; 7; stale
+2;saltstack;salt; 510; 7; stale
+4;saltstack;salt; 510; 7; stale
+2;saltstack;salt; 510; 7; stale
+9;saltstack;salt; 500; 7; stale
+1;saltstack;salt; 510; 7; stale
+0;saltstack;salt; 500; 7; stale
+6;saltstack;salt; 500; 7; stale
+0;saltstack;salt; 500; 7; stale
+9;saltstack;salt; 500; 7; stale
+6;saltstack;salt; 500; 7; stale
+8;saltstack;salt; 490; 7; stale
+2;saltstack;salt; 500; 7; stale
+3;saltstack;salt; 490; 7; stale
+1;saltstack;salt; 490; 7; stale
+0;saltstack;salt; 490; 7; stale
+7;saltstack;salt; 490; 7; stale
+2;saltstack;salt; 490; 7; stale
+9;saltstack;salt; 490; 7; stale
+0;saltstack;salt; 490; 7; stale
+5;saltstack;salt; 480; 7; stale
+0;saltstack;salt; 480; 7; stale
+6;saltstack;salt; 480; 7; stale
+7;saltstack;salt; 480; 7; stale
+7;saltstack;salt; 480; 7; stale
+6;saltstack;salt; 480; 7; stale
+0;saltstack;salt; 480; 7; stale
+3;saltstack;salt; 480; 7; stale
+8;saltstack;salt; 480; 7; stale
+8;saltstack;salt; 480; 7; stale
+0;saltstack;salt; 480; 7; stale
+2;saltstack;salt; 480; 7; stale
+6;saltstack;salt; 480; 7; stale
+9;saltstack;salt; 480; 7; stale
+8;saltstack;salt; 480; 7; stale
+6;saltstack;salt; 480; 7; stale
+0;saltstack;salt; 480; 7; stale
+2;saltstack;salt; 480; 7; stale
+2;saltstack;salt; 480; 7; stale
+8;saltstack;salt; 480; 7; stale
+6;saltstack;salt; 480; 7; stale
+9;saltstack;salt; 480; 7; stale
+2;saltstack;salt; 480; 7; stale
+0;saltstack;salt; 480; 7; stale
+3;dogo;SCLAlertView; 30; 7; stale
+7;dogo;SCLAlertView; 30; 7; stale
+2;dogo;SCLAlertView; 30; 7; stale
+1;dogo;SCLAlertView; 30; 7; wontfix
+1;dogo;SCLAlertView; 30; 7; wontfix
+2;dogo;SCLAlertView; 30; 7; wontfix
+3;strongloop;loopback-getting-started-intermediate; 60; 14; stale
+0;PowerShell;xSafeHarbor; 14; 40; abandoned
+0;jquery-validation;jquery-validation; 30; 7; stale
+1;jquery-validation;jquery-validation; 60; 7; stale
+0;excon;excon; 60; 7; wontfix
