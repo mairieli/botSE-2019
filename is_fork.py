@@ -7,11 +7,11 @@ if __name__ == "__main__":
     w_pull_out = csv.writer(pull_out)
 
     db_user = os.environ['DB_USER']
-	db_host = os.environ['DB_HOST']
-	db_port = os.environ['DB_PORT']
-	db_pass = os.environ['DB_PASS']
+    db_host = os.environ['DB_HOST']
+    db_port = os.environ['DB_PORT']
+    db_pass = os.environ['DB_PASS']
 
-	command = f"mysql -ss -u {db_user} -h {db_host} --port={db_port} -p{db_pass} -e 'use ghtorrent;"
+    command = f"mysql -ss -u {db_user} -h {db_host} --port={db_port} -p{db_pass} -e 'use ghtorrent;"
 
     repos = iocsv.read_csv("projects.csv")
     for r in repos:
